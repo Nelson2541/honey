@@ -1,0 +1,8132 @@
+[
+  {
+    "State": "AL",
+    "Honey producing colonies": 14,
+    "Yield per colony": 73,
+    "Production": 1022,
+    "Stocks December 15": 235,
+    "Average price per pound": 0.71,
+    "Value of production": 726,
+    "Year": 2001
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 43,
+    "Yield per colony": 59,
+    "Production": 2537,
+    "Stocks December 15": 1142,
+    "Average price per pound": 0.78,
+    "Value of production": 1979,
+    "Year": 2001
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 58,
+    "Yield per colony": 98,
+    "Production": 5655,
+    "Stocks December 15": 1872,
+    "Average price per pound": 0.66,
+    "Value of production": 3732,
+    "Year": 2001
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 425,
+    "Yield per colony": 65,
+    "Production": 27625,
+    "Stocks December 15": 7735,
+    "Average price per pound": 0.67,
+    "Value of production": 18509,
+    "Year": 2001
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 26,
+    "Yield per colony": 55,
+    "Production": 1430,
+    "Stocks December 15": 529,
+    "Average price per pound": 0.7,
+    "Value of production": 1001,
+    "Year": 2001
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 220,
+    "Yield per colony": 100,
+    "Production": 22000,
+    "Stocks December 15": 3432,
+    "Average price per pound": 0.62,
+    "Value of production": 13640,
+    "Year": 2001
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 55,
+    "Yield per colony": 57,
+    "Production": 3135,
+    "Stocks December 15": 188,
+    "Average price per pound": 0.7,
+    "Value of production": 2195,
+    "Year": 2001
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 8,
+    "Yield per colony": 87,
+    "Production": 696,
+    "Stocks December 15": 84,
+    "Average price per pound": 0.85,
+    "Value of production": 592,
+    "Year": 2001
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 100,
+    "Yield per colony": 46,
+    "Production": 4600,
+    "Stocks December 15": 1610,
+    "Average price per pound": 0.66,
+    "Value of production": 3036,
+    "Year": 2001
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 6,
+    "Yield per colony": 76,
+    "Production": 456,
+    "Stocks December 15": 251,
+    "Average price per pound": 1.72,
+    "Value of production": 784,
+    "Year": 2001
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 76,
+    "Production": 608,
+    "Stocks December 15": 213,
+    "Average price per pound": 0.86,
+    "Value of production": 523,
+    "Year": 2001
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 33,
+    "Yield per colony": 51,
+    "Production": 1683,
+    "Stocks December 15": 875,
+    "Average price per pound": 0.73,
+    "Value of production": 1229,
+    "Year": 2001
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 13,
+    "Yield per colony": 51,
+    "Production": 663,
+    "Stocks December 15": 530,
+    "Average price per pound": 0.85,
+    "Value of production": 564,
+    "Year": 2001
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 3,
+    "Yield per colony": 78,
+    "Production": 234,
+    "Stocks December 15": 94,
+    "Average price per pound": 1.31,
+    "Value of production": 307,
+    "Year": 2001
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 45,
+    "Yield per colony": 106,
+    "Production": 4770,
+    "Stocks December 15": 572,
+    "Average price per pound": 0.6,
+    "Value of production": 2862,
+    "Year": 2001
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 11,
+    "Yield per colony": 20,
+    "Production": 220,
+    "Stocks December 15": 106,
+    "Average price per pound": 0.7,
+    "Value of production": 154,
+    "Year": 2001
+  },
+  {
+    "State": "MD",
+    "Honey producing colonies": 4,
+    "Yield per colony": 46,
+    "Production": 184,
+    "Stocks December 15": 55,
+    "Average price per pound": 1.72,
+    "Value of production": 316,
+    "Year": 2001
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 76,
+    "Yield per colony": 60,
+    "Production": 4560,
+    "Stocks December 15": 2827,
+    "Average price per pound": 0.78,
+    "Value of production": 3557,
+    "Year": 2001
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 135,
+    "Yield per colony": 81,
+    "Production": 10935,
+    "Stocks December 15": 1859,
+    "Average price per pound": 0.63,
+    "Value of production": 6889,
+    "Year": 2001
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 17,
+    "Yield per colony": 66,
+    "Production": 1122,
+    "Stocks December 15": 224,
+    "Average price per pound": 0.6,
+    "Value of production": 673,
+    "Year": 2001
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 25,
+    "Yield per colony": 61,
+    "Production": 1525,
+    "Stocks December 15": 381,
+    "Average price per pound": 0.68,
+    "Value of production": 1037,
+    "Year": 2001
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 136,
+    "Yield per colony": 102,
+    "Production": 13872,
+    "Stocks December 15": 4578,
+    "Average price per pound": 0.65,
+    "Value of production": 9017,
+    "Year": 2001
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 43,
+    "Yield per colony": 48,
+    "Production": 2064,
+    "Stocks December 15": 1115,
+    "Average price per pound": 0.66,
+    "Value of production": 1362,
+    "Year": 2001
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 11,
+    "Yield per colony": 50,
+    "Production": 550,
+    "Stocks December 15": 44,
+    "Average price per pound": 2.01,
+    "Value of production": 1106,
+    "Year": 2001
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 11,
+    "Yield per colony": 34,
+    "Production": 374,
+    "Stocks December 15": 71,
+    "Average price per pound": 0.82,
+    "Value of production": 307,
+    "Year": 2001
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 15,
+    "Yield per colony": 70,
+    "Production": 1050,
+    "Stocks December 15": 525,
+    "Average price per pound": 0.65,
+    "Value of production": 683,
+    "Year": 2001
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 53,
+    "Yield per colony": 70,
+    "Production": 3710,
+    "Stocks December 15": 1781,
+    "Average price per pound": 0.68,
+    "Value of production": 2523,
+    "Year": 2001
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 11,
+    "Yield per colony": 44,
+    "Production": 484,
+    "Stocks December 15": 145,
+    "Average price per pound": 1.58,
+    "Value of production": 765,
+    "Year": 2001
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 280,
+    "Yield per colony": 96,
+    "Production": 26880,
+    "Stocks December 15": 9408,
+    "Average price per pound": 0.65,
+    "Value of production": 17472,
+    "Year": 2001
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 16,
+    "Yield per colony": 81,
+    "Production": 1296,
+    "Stocks December 15": 505,
+    "Average price per pound": 0.85,
+    "Value of production": 1102,
+    "Year": 2001
+  },
+  {
+    "State": "OK",
+    "Honey producing colonies": 4,
+    "Yield per colony": 47,
+    "Production": 188,
+    "Stocks December 15": 105,
+    "Average price per pound": 1.41,
+    "Value of production": 265,
+    "Year": 2001
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 44,
+    "Yield per colony": 44,
+    "Production": 1936,
+    "Stocks December 15": 1200,
+    "Average price per pound": 0.69,
+    "Value of production": 1336,
+    "Year": 2001
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 17,
+    "Yield per colony": 57,
+    "Production": 969,
+    "Stocks December 15": 514,
+    "Average price per pound": 0.87,
+    "Value of production": 843,
+    "Year": 2001
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 235,
+    "Yield per colony": 65,
+    "Production": 15275,
+    "Stocks December 15": 12220,
+    "Average price per pound": 0.64,
+    "Value of production": 9776,
+    "Year": 2001
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 9,
+    "Yield per colony": 59,
+    "Production": 531,
+    "Stocks December 15": 147,
+    "Average price per pound": 1.37,
+    "Value of production": 727,
+    "Year": 2001
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 97,
+    "Yield per colony": 79,
+    "Production": 7663,
+    "Stocks December 15": 1533,
+    "Average price per pound": 0.64,
+    "Value of production": 4904,
+    "Year": 2001
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 38,
+    "Production": 874,
+    "Stocks December 15": 315,
+    "Average price per pound": 0.65,
+    "Value of production": 568,
+    "Year": 2001
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 7,
+    "Yield per colony": 81,
+    "Production": 567,
+    "Stocks December 15": 249,
+    "Average price per pound": 0.91,
+    "Value of production": 516,
+    "Year": 2001
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 9,
+    "Yield per colony": 52,
+    "Production": 468,
+    "Stocks December 15": 94,
+    "Average price per pound": 1.17,
+    "Value of production": 548,
+    "Year": 2001
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 42,
+    "Yield per colony": 52,
+    "Production": 2184,
+    "Stocks December 15": 917,
+    "Average price per pound": 0.67,
+    "Value of production": 1463,
+    "Year": 2001
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 7,
+    "Yield per colony": 65,
+    "Production": 455,
+    "Stocks December 15": 410,
+    "Average price per pound": 1.55,
+    "Value of production": 705,
+    "Year": 2001
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 67,
+    "Yield per colony": 81,
+    "Production": 5427,
+    "Stocks December 15": 3419,
+    "Average price per pound": 0.76,
+    "Value of production": 4125,
+    "Year": 2001
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 38,
+    "Yield per colony": 77,
+    "Production": 2926,
+    "Stocks December 15": 468,
+    "Average price per pound": 0.63,
+    "Value of production": 1843,
+    "Year": 2001
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 13,
+    "Yield per colony": 40,
+    "Production": 523,
+    "Stocks December 15": 173,
+    "Average price per pound": 1.53,
+    "Value of production": 799,
+    "Year": 2001
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2513,
+    "Yield per colony": 74,
+    "Production": 185926,
+    "Stocks December 15": 64750,
+    "Average price per pound": 0.669,
+    "Value of production": 127060,
+    "Year": 2001
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 12,
+    "Yield per colony": 86,
+    "Production": 1032,
+    "Stocks December 15": 103,
+    "Average price per pound": 1.11,
+    "Value of production": 1146,
+    "Year": 2002
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 38,
+    "Yield per colony": 63,
+    "Production": 2394,
+    "Stocks December 15": 1197,
+    "Average price per pound": 1.1,
+    "Value of production": 2633,
+    "Year": 2002
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 55,
+    "Yield per colony": 88,
+    "Production": 4840,
+    "Stocks December 15": 1065,
+    "Average price per pound": 1.24,
+    "Value of production": 6002,
+    "Year": 2002
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 440,
+    "Yield per colony": 53,
+    "Production": 23320,
+    "Stocks December 15": 3498,
+    "Average price per pound": 1.29,
+    "Value of production": 30083,
+    "Year": 2002
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 24,
+    "Yield per colony": 60,
+    "Production": 1440,
+    "Stocks December 15": 576,
+    "Average price per pound": 1.22,
+    "Value of production": 1757,
+    "Year": 2002
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 220,
+    "Yield per colony": 93,
+    "Production": 20460,
+    "Stocks December 15": 2026,
+    "Average price per pound": 1.12,
+    "Value of production": 22915,
+    "Year": 2002
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 50,
+    "Yield per colony": 52,
+    "Production": 2600,
+    "Stocks December 15": 52,
+    "Average price per pound": 1.1,
+    "Value of production": 2860,
+    "Year": 2002
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 7,
+    "Yield per colony": 136,
+    "Production": 952,
+    "Stocks December 15": 29,
+    "Average price per pound": 1.1,
+    "Value of production": 1047,
+    "Year": 2002
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 100,
+    "Yield per colony": 57,
+    "Production": 5700,
+    "Stocks December 15": 1653,
+    "Average price per pound": 1.35,
+    "Value of production": 7695,
+    "Year": 2002
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 80,
+    "Production": 720,
+    "Stocks December 15": 130,
+    "Average price per pound": 1.42,
+    "Value of production": 1022,
+    "Year": 2002
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 62,
+    "Production": 496,
+    "Stocks December 15": 233,
+    "Average price per pound": 1.14,
+    "Value of production": 565,
+    "Year": 2002
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 33,
+    "Yield per colony": 70,
+    "Production": 2310,
+    "Stocks December 15": 901,
+    "Average price per pound": 1.37,
+    "Value of production": 3165,
+    "Year": 2002
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 17,
+    "Yield per colony": 52,
+    "Production": 884,
+    "Stocks December 15": 407,
+    "Average price per pound": 1.56,
+    "Value of production": 1379,
+    "Year": 2002
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 3,
+    "Yield per colony": 54,
+    "Production": 162,
+    "Stocks December 15": 47,
+    "Average price per pound": 1.65,
+    "Value of production": 267,
+    "Year": 2002
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 124,
+    "Production": 4340,
+    "Stocks December 15": 347,
+    "Average price per pound": 1.14,
+    "Value of production": 4948,
+    "Year": 2002
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 11,
+    "Yield per colony": 41,
+    "Production": 451,
+    "Stocks December 15": 266,
+    "Average price per pound": 1.21,
+    "Value of production": 546,
+    "Year": 2002
+  },
+  {
+    "State": "MD",
+    "Honey producing colonies": 3,
+    "Yield per colony": 46,
+    "Production": 138,
+    "Stocks December 15": 21,
+    "Average price per pound": 1.75,
+    "Value of production": 242,
+    "Year": 2002
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 72,
+    "Yield per colony": 77,
+    "Production": 5544,
+    "Stocks December 15": 1885,
+    "Average price per pound": 1.34,
+    "Value of production": 7429,
+    "Year": 2002
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 117,
+    "Yield per colony": 73,
+    "Production": 8541,
+    "Stocks December 15": 1110,
+    "Average price per pound": 1.42,
+    "Value of production": 12128,
+    "Year": 2002
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 18,
+    "Yield per colony": 78,
+    "Production": 1404,
+    "Stocks December 15": 281,
+    "Average price per pound": 1.18,
+    "Value of production": 1657,
+    "Year": 2002
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 18,
+    "Yield per colony": 53,
+    "Production": 954,
+    "Stocks December 15": 200,
+    "Average price per pound": 1.37,
+    "Value of production": 1307,
+    "Year": 2002
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 134,
+    "Yield per colony": 63,
+    "Production": 8442,
+    "Stocks December 15": 1097,
+    "Average price per pound": 1.35,
+    "Value of production": 11397,
+    "Year": 2002
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 43,
+    "Yield per colony": 75,
+    "Production": 3225,
+    "Stocks December 15": 1161,
+    "Average price per pound": 1.45,
+    "Value of production": 4676,
+    "Year": 2002
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 9,
+    "Yield per colony": 62,
+    "Production": 558,
+    "Stocks December 15": 61,
+    "Average price per pound": 2.27,
+    "Value of production": 1267,
+    "Year": 2002
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 10,
+    "Yield per colony": 35,
+    "Production": 350,
+    "Stocks December 15": 74,
+    "Average price per pound": 0.98,
+    "Value of production": 343,
+    "Year": 2002
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 11,
+    "Yield per colony": 44,
+    "Production": 484,
+    "Stocks December 15": 252,
+    "Average price per pound": 1.09,
+    "Value of production": 528,
+    "Year": 2002
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 60,
+    "Yield per colony": 98,
+    "Production": 5880,
+    "Stocks December 15": 2470,
+    "Average price per pound": 1.17,
+    "Value of production": 6880,
+    "Year": 2002
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 14,
+    "Yield per colony": 51,
+    "Production": 714,
+    "Stocks December 15": 86,
+    "Average price per pound": 1.36,
+    "Value of production": 971,
+    "Year": 2002
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 320,
+    "Yield per colony": 75,
+    "Production": 24000,
+    "Stocks December 15": 8160,
+    "Average price per pound": 1.42,
+    "Value of production": 34080,
+    "Year": 2002
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 16,
+    "Yield per colony": 81,
+    "Production": 1296,
+    "Stocks December 15": 518,
+    "Average price per pound": 1.4,
+    "Value of production": 1814,
+    "Year": 2002
+  },
+  {
+    "State": "OK",
+    "Honey producing colonies": 3,
+    "Yield per colony": 53,
+    "Production": 159,
+    "Stocks December 15": 51,
+    "Average price per pound": 1.6,
+    "Value of production": 254,
+    "Year": 2002
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 39,
+    "Yield per colony": 49,
+    "Production": 1911,
+    "Stocks December 15": 803,
+    "Average price per pound": 1.28,
+    "Value of production": 2446,
+    "Year": 2002
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 18,
+    "Yield per colony": 57,
+    "Production": 1026,
+    "Stocks December 15": 513,
+    "Average price per pound": 1.3,
+    "Value of production": 1334,
+    "Year": 2002
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 5,
+    "Yield per colony": 94,
+    "Production": 470,
+    "Stocks December 15": 14,
+    "Average price per pound": 1.25,
+    "Value of production": 588,
+    "Year": 2002
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 225,
+    "Yield per colony": 51,
+    "Production": 11475,
+    "Stocks December 15": 2410,
+    "Average price per pound": 1.4,
+    "Value of production": 16065,
+    "Year": 2002
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 61,
+    "Production": 488,
+    "Stocks December 15": 137,
+    "Average price per pound": 1.37,
+    "Value of production": 669,
+    "Year": 2002
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 114,
+    "Yield per colony": 67,
+    "Production": 7638,
+    "Stocks December 15": 985,
+    "Average price per pound": 1.09,
+    "Value of production": 8325,
+    "Year": 2002
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 22,
+    "Yield per colony": 59,
+    "Production": 1298,
+    "Stocks December 15": 208,
+    "Average price per pound": 1.29,
+    "Value of production": 1674,
+    "Year": 2002
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 7,
+    "Yield per colony": 89,
+    "Production": 623,
+    "Stocks December 15": 274,
+    "Average price per pound": 1.19,
+    "Value of production": 741,
+    "Year": 2002
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 7,
+    "Yield per colony": 38,
+    "Production": 266,
+    "Stocks December 15": 69,
+    "Average price per pound": 1.86,
+    "Value of production": 495,
+    "Year": 2002
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 44,
+    "Yield per colony": 51,
+    "Production": 2244,
+    "Stocks December 15": 494,
+    "Average price per pound": 1.25,
+    "Value of production": 2805,
+    "Year": 2002
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 9,
+    "Yield per colony": 51,
+    "Production": 459,
+    "Stocks December 15": 151,
+    "Average price per pound": 1.37,
+    "Value of production": 629,
+    "Year": 2002
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 70,
+    "Yield per colony": 95,
+    "Production": 6650,
+    "Stocks December 15": 2461,
+    "Average price per pound": 1.3,
+    "Value of production": 8645,
+    "Year": 2002
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 38,
+    "Yield per colony": 63,
+    "Production": 2394,
+    "Stocks December 15": 383,
+    "Average price per pound": 1.39,
+    "Value of production": 3328,
+    "Year": 2002
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 8,
+    "Yield per colony": 51,
+    "Production": 408,
+    "Stocks December 15": 188,
+    "Average price per pound": 2.18,
+    "Value of production": 891,
+    "Year": 2002
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2524,
+    "Yield per colony": 67.8,
+    "Production": 171140,
+    "Stocks December 15": 39047,
+    "Average price per pound": 1.286,
+    "Value of production": 221638,
+    "Year": 2002
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 13,
+    "Yield per colony": 82,
+    "Production": 1066,
+    "Stocks December 15": 43,
+    "Average price per pound": 1.26,
+    "Value of production": 1343,
+    "Year": 2003
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 40,
+    "Yield per colony": 72,
+    "Production": 2880,
+    "Stocks December 15": 1123,
+    "Average price per pound": 1.38,
+    "Value of production": 3974,
+    "Year": 2003
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 40,
+    "Yield per colony": 75,
+    "Production": 3000,
+    "Stocks December 15": 810,
+    "Average price per pound": 1.27,
+    "Value of production": 3810,
+    "Year": 2003
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 480,
+    "Yield per colony": 67,
+    "Production": 32160,
+    "Stocks December 15": 6432,
+    "Average price per pound": 1.42,
+    "Value of production": 45667,
+    "Year": 2003
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 24,
+    "Yield per colony": 86,
+    "Production": 2064,
+    "Stocks December 15": 722,
+    "Average price per pound": 1.38,
+    "Value of production": 2848,
+    "Year": 2003
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 210,
+    "Yield per colony": 71,
+    "Production": 14910,
+    "Stocks December 15": 1491,
+    "Average price per pound": 1.35,
+    "Value of production": 20129,
+    "Year": 2003
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 52,
+    "Yield per colony": 65,
+    "Production": 3380,
+    "Stocks December 15": 270,
+    "Average price per pound": 1.28,
+    "Value of production": 4326,
+    "Year": 2003
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 7,
+    "Yield per colony": 113,
+    "Production": 791,
+    "Stocks December 15": 43,
+    "Average price per pound": 1.43,
+    "Value of production": 1131,
+    "Year": 2003
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 100,
+    "Yield per colony": 46,
+    "Production": 4600,
+    "Stocks December 15": 1380,
+    "Average price per pound": 1.35,
+    "Value of production": 6210,
+    "Year": 2003
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 60,
+    "Production": 420,
+    "Stocks December 15": 252,
+    "Average price per pound": 1.73,
+    "Value of production": 727,
+    "Year": 2003
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 5,
+    "Yield per colony": 56,
+    "Production": 280,
+    "Stocks December 15": 78,
+    "Average price per pound": 1.59,
+    "Value of production": 445,
+    "Year": 2003
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 32,
+    "Yield per colony": 59,
+    "Production": 1888,
+    "Stocks December 15": 868,
+    "Average price per pound": 1.45,
+    "Value of production": 2738,
+    "Year": 2003
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 16,
+    "Yield per colony": 57,
+    "Production": 912,
+    "Stocks December 15": 447,
+    "Average price per pound": 1.58,
+    "Value of production": 1441,
+    "Year": 2003
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 48,
+    "Production": 240,
+    "Stocks December 15": 14,
+    "Average price per pound": 1.64,
+    "Value of production": 394,
+    "Year": 2003
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 34,
+    "Yield per colony": 90,
+    "Production": 3060,
+    "Stocks December 15": 275,
+    "Average price per pound": 1.24,
+    "Value of production": 3794,
+    "Year": 2003
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 8,
+    "Yield per colony": 33,
+    "Production": 264,
+    "Stocks December 15": 145,
+    "Average price per pound": 1.4,
+    "Value of production": 370,
+    "Year": 2003
+  },
+  {
+    "State": "MD",
+    "Honey producing colonies": 2,
+    "Yield per colony": 42,
+    "Production": 84,
+    "Stocks December 15": 21,
+    "Average price per pound": 1.91,
+    "Value of production": 160,
+    "Year": 2003
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 65,
+    "Yield per colony": 74,
+    "Production": 4810,
+    "Stocks December 15": 1732,
+    "Average price per pound": 1.47,
+    "Value of production": 7071,
+    "Year": 2003
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 120,
+    "Yield per colony": 83,
+    "Production": 9960,
+    "Stocks December 15": 1892,
+    "Average price per pound": 1.46,
+    "Value of production": 14542,
+    "Year": 2003
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 21,
+    "Yield per colony": 69,
+    "Production": 1449,
+    "Stocks December 15": 246,
+    "Average price per pound": 1.28,
+    "Value of production": 1855,
+    "Year": 2003
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 17,
+    "Yield per colony": 53,
+    "Production": 901,
+    "Stocks December 15": 189,
+    "Average price per pound": 1.41,
+    "Value of production": 1270,
+    "Year": 2003
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 145,
+    "Yield per colony": 66,
+    "Production": 9570,
+    "Stocks December 15": 1914,
+    "Average price per pound": 1.48,
+    "Value of production": 14164,
+    "Year": 2003
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 45,
+    "Yield per colony": 74,
+    "Production": 3330,
+    "Stocks December 15": 1299,
+    "Average price per pound": 1.43,
+    "Value of production": 4762,
+    "Year": 2003
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 64,
+    "Production": 384,
+    "Stocks December 15": 46,
+    "Average price per pound": 2.41,
+    "Value of production": 925,
+    "Year": 2003
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 10,
+    "Yield per colony": 19,
+    "Production": 190,
+    "Stocks December 15": 101,
+    "Average price per pound": 1.57,
+    "Value of production": 298,
+    "Year": 2003
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 6,
+    "Yield per colony": 41,
+    "Production": 246,
+    "Stocks December 15": 108,
+    "Average price per pound": 1.16,
+    "Value of production": 285,
+    "Year": 2003
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 67,
+    "Yield per colony": 72,
+    "Production": 4824,
+    "Stocks December 15": 1640,
+    "Average price per pound": 1.4,
+    "Value of production": 6754,
+    "Year": 2003
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 10,
+    "Yield per colony": 44,
+    "Production": 440,
+    "Stocks December 15": 79,
+    "Average price per pound": 1.9,
+    "Value of production": 836,
+    "Year": 2003
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 340,
+    "Yield per colony": 87,
+    "Production": 29580,
+    "Stocks December 15": 6803,
+    "Average price per pound": 1.36,
+    "Value of production": 40229,
+    "Year": 2003
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 50,
+    "Production": 750,
+    "Stocks December 15": 278,
+    "Average price per pound": 1.43,
+    "Value of production": 1073,
+    "Year": 2003
+  },
+  {
+    "State": "OK",
+    "Honey producing colonies": 3,
+    "Yield per colony": 47,
+    "Production": 141,
+    "Stocks December 15": 69,
+    "Average price per pound": 1.83,
+    "Value of production": 258,
+    "Year": 2003
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 42,
+    "Yield per colony": 51,
+    "Production": 2142,
+    "Stocks December 15": 964,
+    "Average price per pound": 1.26,
+    "Value of production": 2699,
+    "Year": 2003
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 27,
+    "Yield per colony": 50,
+    "Production": 1350,
+    "Stocks December 15": 419,
+    "Average price per pound": 1.32,
+    "Value of production": 1782,
+    "Year": 2003
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 6,
+    "Yield per colony": 70,
+    "Production": 420,
+    "Stocks December 15": 13,
+    "Average price per pound": 1.95,
+    "Value of production": 819,
+    "Year": 2003
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 200,
+    "Yield per colony": 70,
+    "Production": 14000,
+    "Stocks December 15": 2520,
+    "Average price per pound": 1.46,
+    "Value of production": 20440,
+    "Year": 2003
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 40,
+    "Production": 280,
+    "Stocks December 15": 53,
+    "Average price per pound": 1.53,
+    "Value of production": 428,
+    "Year": 2003
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 140,
+    "Yield per colony": 67,
+    "Production": 9380,
+    "Stocks December 15": 1126,
+    "Average price per pound": 1.42,
+    "Value of production": 13320,
+    "Year": 2003
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 57,
+    "Production": 1311,
+    "Stocks December 15": 144,
+    "Average price per pound": 1.3,
+    "Value of production": 1704,
+    "Year": 2003
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 7,
+    "Yield per colony": 83,
+    "Production": 581,
+    "Stocks December 15": 163,
+    "Average price per pound": 1.92,
+    "Value of production": 1116,
+    "Year": 2003
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 37,
+    "Production": 222,
+    "Stocks December 15": 69,
+    "Average price per pound": 1.69,
+    "Value of production": 375,
+    "Year": 2003
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 58,
+    "Yield per colony": 56,
+    "Production": 3248,
+    "Stocks December 15": 942,
+    "Average price per pound": 1.52,
+    "Value of production": 4937,
+    "Year": 2003
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 8,
+    "Yield per colony": 47,
+    "Production": 376,
+    "Stocks December 15": 194,
+    "Average price per pound": 2.01,
+    "Value of production": 756,
+    "Year": 2003
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 74,
+    "Yield per colony": 77,
+    "Production": 5698,
+    "Stocks December 15": 2678,
+    "Average price per pound": 1.44,
+    "Value of production": 8205,
+    "Year": 2003
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 81,
+    "Production": 3159,
+    "Stocks December 15": 474,
+    "Average price per pound": 1.4,
+    "Value of production": 4423,
+    "Year": 2003
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 8,
+    "Yield per colony": 44,
+    "Production": 355,
+    "Stocks December 15": 166,
+    "Average price per pound": 2.7,
+    "Value of production": 958,
+    "Year": 2003
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2590,
+    "Yield per colony": 69.9,
+    "Production": 181096,
+    "Stocks December 15": 40735,
+    "Average price per pound": 1.4040000000000001,
+    "Value of production": 255791,
+    "Year": 2003
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 12,
+    "Yield per colony": 87,
+    "Production": 1044,
+    "Stocks December 15": 282,
+    "Average price per pound": 1.4,
+    "Value of production": 1462,
+    "Year": 2004
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 32,
+    "Yield per colony": 55,
+    "Production": 1760,
+    "Stocks December 15": 774,
+    "Average price per pound": 1.15,
+    "Value of production": 2024,
+    "Year": 2004
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 40,
+    "Yield per colony": 57,
+    "Production": 2280,
+    "Stocks December 15": 388,
+    "Average price per pound": 0.9,
+    "Value of production": 2052,
+    "Year": 2004
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 390,
+    "Yield per colony": 45,
+    "Production": 17550,
+    "Stocks December 15": 5792,
+    "Average price per pound": 1.01,
+    "Value of production": 17726,
+    "Year": 2004
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 23,
+    "Yield per colony": 80,
+    "Production": 1840,
+    "Stocks December 15": 791,
+    "Average price per pound": 1.48,
+    "Value of production": 2723,
+    "Year": 2004
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 205,
+    "Yield per colony": 98,
+    "Production": 20090,
+    "Stocks December 15": 2009,
+    "Average price per pound": 1,
+    "Value of production": 20090,
+    "Year": 2004
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 63,
+    "Yield per colony": 49,
+    "Production": 3087,
+    "Stocks December 15": 648,
+    "Average price per pound": 1.18,
+    "Value of production": 3643,
+    "Year": 2004
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 8,
+    "Yield per colony": 96,
+    "Production": 768,
+    "Stocks December 15": 77,
+    "Average price per pound": 1.41,
+    "Value of production": 1083,
+    "Year": 2004
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 100,
+    "Yield per colony": 63,
+    "Production": 6300,
+    "Stocks December 15": 2520,
+    "Average price per pound": 1.01,
+    "Value of production": 6363,
+    "Year": 2004
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 55,
+    "Production": 385,
+    "Stocks December 15": 193,
+    "Average price per pound": 1.93,
+    "Value of production": 743,
+    "Year": 2004
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 59,
+    "Production": 413,
+    "Stocks December 15": 145,
+    "Average price per pound": 1.58,
+    "Value of production": 653,
+    "Year": 2004
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 67,
+    "Production": 2345,
+    "Stocks December 15": 1337,
+    "Average price per pound": 1.28,
+    "Value of production": 3002,
+    "Year": 2004
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 80,
+    "Production": 1120,
+    "Stocks December 15": 683,
+    "Average price per pound": 1.23,
+    "Value of production": 1378,
+    "Year": 2004
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 98,
+    "Production": 3430,
+    "Stocks December 15": 240,
+    "Average price per pound": 0.79,
+    "Value of production": 2710,
+    "Year": 2004
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 7,
+    "Yield per colony": 31,
+    "Production": 217,
+    "Stocks December 15": 37,
+    "Average price per pound": 1.27,
+    "Value of production": 276,
+    "Year": 2004
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 65,
+    "Yield per colony": 67,
+    "Production": 4355,
+    "Stocks December 15": 2439,
+    "Average price per pound": 1.17,
+    "Value of production": 5095,
+    "Year": 2004
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 135,
+    "Yield per colony": 75,
+    "Production": 10125,
+    "Stocks December 15": 1924,
+    "Average price per pound": 1.04,
+    "Value of production": 10530,
+    "Year": 2004
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 18,
+    "Yield per colony": 65,
+    "Production": 1170,
+    "Stocks December 15": 421,
+    "Average price per pound": 0.8,
+    "Value of production": 936,
+    "Year": 2004
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 16,
+    "Yield per colony": 41,
+    "Production": 656,
+    "Stocks December 15": 151,
+    "Average price per pound": 1.37,
+    "Value of production": 899,
+    "Year": 2004
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 140,
+    "Yield per colony": 77,
+    "Production": 10780,
+    "Stocks December 15": 3773,
+    "Average price per pound": 1.06,
+    "Value of production": 11427,
+    "Year": 2004
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 51,
+    "Yield per colony": 89,
+    "Production": 4539,
+    "Stocks December 15": 2043,
+    "Average price per pound": 1.07,
+    "Value of production": 4857,
+    "Year": 2004
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 14,
+    "Yield per colony": 55,
+    "Production": 770,
+    "Stocks December 15": 316,
+    "Average price per pound": 3.3,
+    "Value of production": 2541,
+    "Year": 2004
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 12,
+    "Yield per colony": 27,
+    "Production": 324,
+    "Stocks December 15": 45,
+    "Average price per pound": 1.38,
+    "Value of production": 447,
+    "Year": 2004
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 8,
+    "Yield per colony": 44,
+    "Production": 352,
+    "Stocks December 15": 127,
+    "Average price per pound": 1.22,
+    "Value of production": 429,
+    "Year": 2004
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 64,
+    "Yield per colony": 67,
+    "Production": 4288,
+    "Stocks December 15": 1887,
+    "Average price per pound": 1.33,
+    "Value of production": 5703,
+    "Year": 2004
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 9,
+    "Yield per colony": 40,
+    "Production": 360,
+    "Stocks December 15": 72,
+    "Average price per pound": 2.18,
+    "Value of production": 785,
+    "Year": 2004
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 390,
+    "Yield per colony": 78,
+    "Production": 30420,
+    "Stocks December 15": 9126,
+    "Average price per pound": 1.05,
+    "Value of production": 31941,
+    "Year": 2004
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 16,
+    "Yield per colony": 58,
+    "Production": 928,
+    "Stocks December 15": 353,
+    "Average price per pound": 1.5,
+    "Value of production": 1392,
+    "Year": 2004
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 42,
+    "Yield per colony": 54,
+    "Production": 2268,
+    "Stocks December 15": 1111,
+    "Average price per pound": 1.24,
+    "Value of production": 2812,
+    "Year": 2004
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 30,
+    "Yield per colony": 54,
+    "Production": 1620,
+    "Stocks December 15": 810,
+    "Average price per pound": 1.38,
+    "Value of production": 2236,
+    "Year": 2004
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 215,
+    "Yield per colony": 105,
+    "Production": 22575,
+    "Stocks December 15": 13545,
+    "Average price per pound": 1.06,
+    "Value of production": 23930,
+    "Year": 2004
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 54,
+    "Production": 324,
+    "Stocks December 15": 91,
+    "Average price per pound": 1.72,
+    "Value of production": 557,
+    "Year": 2004
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 116,
+    "Yield per colony": 76,
+    "Production": 8816,
+    "Stocks December 15": 1411,
+    "Average price per pound": 0.96,
+    "Value of production": 8463,
+    "Year": 2004
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 70,
+    "Production": 1610,
+    "Stocks December 15": 531,
+    "Average price per pound": 1.04,
+    "Value of production": 1674,
+    "Year": 2004
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 6,
+    "Yield per colony": 68,
+    "Production": 408,
+    "Stocks December 15": 192,
+    "Average price per pound": 1.45,
+    "Value of production": 592,
+    "Year": 2004
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 7,
+    "Yield per colony": 38,
+    "Production": 266,
+    "Stocks December 15": 69,
+    "Average price per pound": 2.13,
+    "Value of production": 567,
+    "Year": 2004
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 56,
+    "Yield per colony": 63,
+    "Production": 3528,
+    "Stocks December 15": 1376,
+    "Average price per pound": 1.03,
+    "Value of production": 3634,
+    "Year": 2004
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 9,
+    "Yield per colony": 55,
+    "Production": 495,
+    "Stocks December 15": 183,
+    "Average price per pound": 1.42,
+    "Value of production": 703,
+    "Year": 2004
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 68,
+    "Yield per colony": 86,
+    "Production": 5848,
+    "Stocks December 15": 2632,
+    "Average price per pound": 1.33,
+    "Value of production": 7778,
+    "Year": 2004
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 75,
+    "Production": 2925,
+    "Stocks December 15": 380,
+    "Average price per pound": 1.09,
+    "Value of production": 3188,
+    "Year": 2004
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 23,
+    "Yield per colony": 52,
+    "Production": 1203,
+    "Stocks December 15": 298,
+    "Average price per pound": 2.28,
+    "Value of production": 2746,
+    "Year": 2004
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2556,
+    "Yield per colony": 71.8,
+    "Production": 183582,
+    "Stocks December 15": 61222,
+    "Average price per pound": 1.085,
+    "Value of production": 201790,
+    "Year": 2004
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 13,
+    "Yield per colony": 66,
+    "Production": 858,
+    "Stocks December 15": 266,
+    "Average price per pound": 1.28,
+    "Value of production": 1098,
+    "Year": 2005
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 36,
+    "Yield per colony": 50,
+    "Production": 1800,
+    "Stocks December 15": 720,
+    "Average price per pound": 0.97,
+    "Value of production": 1746,
+    "Year": 2005
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 36,
+    "Yield per colony": 69,
+    "Production": 2484,
+    "Stocks December 15": 571,
+    "Average price per pound": 0.95,
+    "Value of production": 2360,
+    "Year": 2005
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 400,
+    "Yield per colony": 75,
+    "Production": 30000,
+    "Stocks December 15": 9300,
+    "Average price per pound": 0.84,
+    "Value of production": 25200,
+    "Year": 2005
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 26,
+    "Yield per colony": 70,
+    "Production": 1820,
+    "Stocks December 15": 837,
+    "Average price per pound": 1.04,
+    "Value of production": 1893,
+    "Year": 2005
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 160,
+    "Yield per colony": 86,
+    "Production": 13760,
+    "Stocks December 15": 2477,
+    "Average price per pound": 0.87,
+    "Value of production": 11971,
+    "Year": 2005
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 59,
+    "Yield per colony": 49,
+    "Production": 2891,
+    "Stocks December 15": 434,
+    "Average price per pound": 0.84,
+    "Value of production": 2428,
+    "Year": 2005
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 9,
+    "Yield per colony": 131,
+    "Production": 1179,
+    "Stocks December 15": 283,
+    "Average price per pound": 1.34,
+    "Value of production": 1580,
+    "Year": 2005
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 95,
+    "Yield per colony": 37,
+    "Production": 3515,
+    "Stocks December 15": 1793,
+    "Average price per pound": 0.8,
+    "Value of production": 2812,
+    "Year": 2005
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 85,
+    "Production": 680,
+    "Stocks December 15": 408,
+    "Average price per pound": 1.62,
+    "Value of production": 1102,
+    "Year": 2005
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 64,
+    "Production": 512,
+    "Stocks December 15": 189,
+    "Average price per pound": 1.19,
+    "Value of production": 609,
+    "Year": 2005
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 28,
+    "Yield per colony": 88,
+    "Production": 2464,
+    "Stocks December 15": 1232,
+    "Average price per pound": 0.98,
+    "Value of production": 2415,
+    "Year": 2005
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 16,
+    "Yield per colony": 50,
+    "Production": 800,
+    "Stocks December 15": 328,
+    "Average price per pound": 1.24,
+    "Value of production": 992,
+    "Year": 2005
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 50,
+    "Production": 250,
+    "Stocks December 15": 40,
+    "Average price per pound": 2.12,
+    "Value of production": 530,
+    "Year": 2005
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 97,
+    "Production": 3395,
+    "Stocks December 15": 611,
+    "Average price per pound": 0.71,
+    "Value of production": 2410,
+    "Year": 2005
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 8,
+    "Yield per colony": 26,
+    "Production": 208,
+    "Stocks December 15": 193,
+    "Average price per pound": 1.87,
+    "Value of production": 389,
+    "Year": 2005
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 65,
+    "Yield per colony": 68,
+    "Production": 4420,
+    "Stocks December 15": 2519,
+    "Average price per pound": 0.99,
+    "Value of production": 4376,
+    "Year": 2005
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 120,
+    "Yield per colony": 74,
+    "Production": 8880,
+    "Stocks December 15": 1598,
+    "Average price per pound": 0.83,
+    "Value of production": 7370,
+    "Year": 2005
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 16,
+    "Yield per colony": 80,
+    "Production": 1280,
+    "Stocks December 15": 346,
+    "Average price per pound": 0.66,
+    "Value of production": 845,
+    "Year": 2005
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 15,
+    "Yield per colony": 50,
+    "Production": 750,
+    "Stocks December 15": 180,
+    "Average price per pound": 1.21,
+    "Value of production": 908,
+    "Year": 2005
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 130,
+    "Yield per colony": 67,
+    "Production": 8710,
+    "Stocks December 15": 3136,
+    "Average price per pound": 0.8,
+    "Value of production": 6968,
+    "Year": 2005
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 40,
+    "Yield per colony": 68,
+    "Production": 2720,
+    "Stocks December 15": 2530,
+    "Average price per pound": 0.89,
+    "Value of production": 2421,
+    "Year": 2005
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 12,
+    "Yield per colony": 46,
+    "Production": 552,
+    "Stocks December 15": 442,
+    "Average price per pound": 2.09,
+    "Value of production": 1154,
+    "Year": 2005
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 12,
+    "Yield per colony": 32,
+    "Production": 384,
+    "Stocks December 15": 104,
+    "Average price per pound": 1.18,
+    "Value of production": 453,
+    "Year": 2005
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 7,
+    "Yield per colony": 49,
+    "Production": 343,
+    "Stocks December 15": 113,
+    "Average price per pound": 1.02,
+    "Value of production": 350,
+    "Year": 2005
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 60,
+    "Yield per colony": 73,
+    "Production": 4380,
+    "Stocks December 15": 2321,
+    "Average price per pound": 1.22,
+    "Value of production": 5344,
+    "Year": 2005
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 10,
+    "Yield per colony": 54,
+    "Production": 540,
+    "Stocks December 15": 146,
+    "Average price per pound": 1.94,
+    "Value of production": 1048,
+    "Year": 2005
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 370,
+    "Yield per colony": 91,
+    "Production": 33670,
+    "Stocks December 15": 8418,
+    "Average price per pound": 0.81,
+    "Value of production": 27273,
+    "Year": 2005
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 69,
+    "Production": 1035,
+    "Stocks December 15": 580,
+    "Average price per pound": 1.41,
+    "Value of production": 1459,
+    "Year": 2005
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 39,
+    "Yield per colony": 42,
+    "Production": 1638,
+    "Stocks December 15": 557,
+    "Average price per pound": 1.08,
+    "Value of production": 1769,
+    "Year": 2005
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 28,
+    "Yield per colony": 56,
+    "Production": 1568,
+    "Stocks December 15": 800,
+    "Average price per pound": 1.05,
+    "Value of production": 1646,
+    "Year": 2005
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 220,
+    "Yield per colony": 79,
+    "Production": 17380,
+    "Stocks December 15": 11818,
+    "Average price per pound": 0.76,
+    "Value of production": 13209,
+    "Year": 2005
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 55,
+    "Production": 385,
+    "Stocks December 15": 92,
+    "Average price per pound": 1.64,
+    "Value of production": 631,
+    "Year": 2005
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 84,
+    "Yield per colony": 71,
+    "Production": 5964,
+    "Stocks December 15": 954,
+    "Average price per pound": 0.85,
+    "Value of production": 5069,
+    "Year": 2005
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 45,
+    "Production": 1035,
+    "Stocks December 15": 331,
+    "Average price per pound": 1.03,
+    "Value of production": 1066,
+    "Year": 2005
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 6,
+    "Yield per colony": 91,
+    "Production": 546,
+    "Stocks December 15": 169,
+    "Average price per pound": 1.06,
+    "Value of production": 579,
+    "Year": 2005
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 8,
+    "Yield per colony": 37,
+    "Production": 296,
+    "Stocks December 15": 59,
+    "Average price per pound": 2.21,
+    "Value of production": 654,
+    "Year": 2005
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 51,
+    "Yield per colony": 55,
+    "Production": 2805,
+    "Stocks December 15": 1935,
+    "Average price per pound": 1.06,
+    "Value of production": 2973,
+    "Year": 2005
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 8,
+    "Yield per colony": 51,
+    "Production": 408,
+    "Stocks December 15": 102,
+    "Average price per pound": 1.24,
+    "Value of production": 506,
+    "Year": 2005
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 64,
+    "Yield per colony": 83,
+    "Production": 5312,
+    "Stocks December 15": 2922,
+    "Average price per pound": 1.14,
+    "Value of production": 6056,
+    "Year": 2005
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 40,
+    "Yield per colony": 56,
+    "Production": 2240,
+    "Stocks December 15": 291,
+    "Average price per pound": 0.87,
+    "Value of production": 1949,
+    "Year": 2005
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 18,
+    "Yield per colony": 44,
+    "Production": 786,
+    "Stocks December 15": 261,
+    "Average price per pound": 2.78,
+    "Value of production": 2184,
+    "Year": 2005
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2410,
+    "Yield per colony": 72.5,
+    "Production": 174643,
+    "Stocks December 15": 62406,
+    "Average price per pound": 0.904,
+    "Value of production": 157795,
+    "Year": 2005
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 11,
+    "Yield per colony": 72,
+    "Production": 792,
+    "Stocks December 15": 230,
+    "Average price per pound": 1.46,
+    "Value of production": 1156,
+    "Year": 2006
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 30,
+    "Yield per colony": 65,
+    "Production": 1950,
+    "Stocks December 15": 839,
+    "Average price per pound": 1.39,
+    "Value of production": 2711,
+    "Year": 2006
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 32,
+    "Yield per colony": 76,
+    "Production": 2432,
+    "Stocks December 15": 730,
+    "Average price per pound": 1.05,
+    "Value of production": 2554,
+    "Year": 2006
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 380,
+    "Yield per colony": 52,
+    "Production": 19760,
+    "Stocks December 15": 7706,
+    "Average price per pound": 0.98,
+    "Value of production": 19365,
+    "Year": 2006
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 36,
+    "Yield per colony": 75,
+    "Production": 2700,
+    "Stocks December 15": 1458,
+    "Average price per pound": 1.39,
+    "Value of production": 3753,
+    "Year": 2006
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 170,
+    "Yield per colony": 81,
+    "Production": 13770,
+    "Stocks December 15": 1790,
+    "Average price per pound": 1.01,
+    "Value of production": 13908,
+    "Year": 2006
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 63,
+    "Yield per colony": 74,
+    "Production": 4662,
+    "Stocks December 15": 746,
+    "Average price per pound": 1.16,
+    "Value of production": 5408,
+    "Year": 2006
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 93,
+    "Production": 930,
+    "Stocks December 15": 233,
+    "Average price per pound": 1.19,
+    "Value of production": 1107,
+    "Year": 2006
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 95,
+    "Yield per colony": 44,
+    "Production": 4180,
+    "Stocks December 15": 2592,
+    "Average price per pound": 0.86,
+    "Value of production": 3595,
+    "Year": 2006
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 10,
+    "Yield per colony": 66,
+    "Production": 660,
+    "Stocks December 15": 356,
+    "Average price per pound": 1.88,
+    "Value of production": 1241,
+    "Year": 2006
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 54,
+    "Production": 324,
+    "Stocks December 15": 107,
+    "Average price per pound": 1.51,
+    "Value of production": 489,
+    "Year": 2006
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 26,
+    "Yield per colony": 84,
+    "Production": 2184,
+    "Stocks December 15": 1441,
+    "Average price per pound": 1.15,
+    "Value of production": 2512,
+    "Year": 2006
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 55,
+    "Production": 770,
+    "Stocks December 15": 246,
+    "Average price per pound": 1.4,
+    "Value of production": 1078,
+    "Year": 2006
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 56,
+    "Production": 280,
+    "Stocks December 15": 70,
+    "Average price per pound": 2.2,
+    "Value of production": 616,
+    "Year": 2006
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 30,
+    "Yield per colony": 90,
+    "Production": 2700,
+    "Stocks December 15": 675,
+    "Average price per pound": 0.89,
+    "Value of production": 2403,
+    "Year": 2006
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 11,
+    "Yield per colony": 23,
+    "Production": 253,
+    "Stocks December 15": 86,
+    "Average price per pound": 2,
+    "Value of production": 506,
+    "Year": 2006
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 72,
+    "Yield per colony": 55,
+    "Production": 3960,
+    "Stocks December 15": 2099,
+    "Average price per pound": 1.28,
+    "Value of production": 5069,
+    "Year": 2006
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 125,
+    "Yield per colony": 80,
+    "Production": 10000,
+    "Stocks December 15": 3300,
+    "Average price per pound": 0.89,
+    "Value of production": 8900,
+    "Year": 2006
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 98,
+    "Production": 1372,
+    "Stocks December 15": 453,
+    "Average price per pound": 1.05,
+    "Value of production": 1441,
+    "Year": 2006
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 15,
+    "Yield per colony": 46,
+    "Production": 690,
+    "Stocks December 15": 117,
+    "Average price per pound": 1.49,
+    "Value of production": 1028,
+    "Year": 2006
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 132,
+    "Yield per colony": 79,
+    "Production": 10428,
+    "Stocks December 15": 1981,
+    "Average price per pound": 1,
+    "Value of production": 10428,
+    "Year": 2006
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 47,
+    "Yield per colony": 73,
+    "Production": 3431,
+    "Stocks December 15": 3843,
+    "Average price per pound": 1.04,
+    "Value of production": 3568,
+    "Year": 2006
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 9,
+    "Yield per colony": 37,
+    "Production": 333,
+    "Stocks December 15": 50,
+    "Average price per pound": 3.55,
+    "Value of production": 1182,
+    "Year": 2006
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 9,
+    "Yield per colony": 36,
+    "Production": 324,
+    "Stocks December 15": 152,
+    "Average price per pound": 1.15,
+    "Value of production": 373,
+    "Year": 2006
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 104,
+    "Average price per pound": 0.96,
+    "Value of production": 323,
+    "Year": 2006
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 60,
+    "Yield per colony": 64,
+    "Production": 3840,
+    "Stocks December 15": 2458,
+    "Average price per pound": 1.38,
+    "Value of production": 5299,
+    "Year": 2006
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 10,
+    "Yield per colony": 50,
+    "Production": 500,
+    "Stocks December 15": 215,
+    "Average price per pound": 1.56,
+    "Value of production": 780,
+    "Year": 2006
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 350,
+    "Yield per colony": 74,
+    "Production": 25900,
+    "Stocks December 15": 7770,
+    "Average price per pound": 0.9,
+    "Value of production": 23310,
+    "Year": 2006
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 14,
+    "Yield per colony": 56,
+    "Production": 784,
+    "Stocks December 15": 282,
+    "Average price per pound": 1.45,
+    "Value of production": 1137,
+    "Year": 2006
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 46,
+    "Yield per colony": 48,
+    "Production": 2208,
+    "Stocks December 15": 729,
+    "Average price per pound": 1.11,
+    "Value of production": 2451,
+    "Year": 2006
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 28,
+    "Yield per colony": 40,
+    "Production": 1120,
+    "Stocks December 15": 605,
+    "Average price per pound": 1.61,
+    "Value of production": 1803,
+    "Year": 2006
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 225,
+    "Yield per colony": 47,
+    "Production": 10575,
+    "Stocks December 15": 10575,
+    "Average price per pound": 0.82,
+    "Value of production": 8672,
+    "Year": 2006
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 55,
+    "Production": 385,
+    "Stocks December 15": 58,
+    "Average price per pound": 1.84,
+    "Value of production": 708,
+    "Year": 2006
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 82,
+    "Yield per colony": 70,
+    "Production": 5740,
+    "Stocks December 15": 976,
+    "Average price per pound": 0.87,
+    "Value of production": 4994,
+    "Year": 2006
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 50,
+    "Production": 1150,
+    "Stocks December 15": 265,
+    "Average price per pound": 1.05,
+    "Value of production": 1208,
+    "Year": 2006
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 6,
+    "Yield per colony": 56,
+    "Production": 336,
+    "Stocks December 15": 144,
+    "Average price per pound": 1.21,
+    "Value of production": 407,
+    "Year": 2006
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 8,
+    "Yield per colony": 42,
+    "Production": 336,
+    "Stocks December 15": 114,
+    "Average price per pound": 2.19,
+    "Value of production": 736,
+    "Year": 2006
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 49,
+    "Yield per colony": 52,
+    "Production": 2548,
+    "Stocks December 15": 1605,
+    "Average price per pound": 1.19,
+    "Value of production": 3032,
+    "Year": 2006
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 42,
+    "Production": 210,
+    "Stocks December 15": 57,
+    "Average price per pound": 1.95,
+    "Value of production": 410,
+    "Year": 2006
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 64,
+    "Yield per colony": 93,
+    "Production": 5952,
+    "Stocks December 15": 2500,
+    "Average price per pound": 1.14,
+    "Value of production": 6785,
+    "Year": 2006
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 85,
+    "Production": 3315,
+    "Stocks December 15": 497,
+    "Average price per pound": 0.88,
+    "Value of production": 2917,
+    "Year": 2006
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 17,
+    "Yield per colony": 43,
+    "Production": 726,
+    "Stocks December 15": 274,
+    "Average price per pound": 2.69,
+    "Value of production": 1951,
+    "Year": 2006
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2392,
+    "Yield per colony": 64.7,
+    "Production": 154846,
+    "Stocks December 15": 60528,
+    "Average price per pound": 1.042,
+    "Value of production": 161314,
+    "Year": 2006
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 11,
+    "Yield per colony": 56,
+    "Production": 616,
+    "Stocks December 15": 209,
+    "Average price per pound": 1.41,
+    "Value of production": 869,
+    "Year": 2007
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 30,
+    "Yield per colony": 64,
+    "Production": 1920,
+    "Stocks December 15": 902,
+    "Average price per pound": 1.18,
+    "Value of production": 2266,
+    "Year": 2007
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 28,
+    "Yield per colony": 80,
+    "Production": 2240,
+    "Stocks December 15": 717,
+    "Average price per pound": 0.95,
+    "Value of production": 2128,
+    "Year": 2007
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 340,
+    "Yield per colony": 40,
+    "Production": 13600,
+    "Stocks December 15": 3672,
+    "Average price per pound": 1.04,
+    "Value of production": 14144,
+    "Year": 2007
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 33,
+    "Yield per colony": 51,
+    "Production": 1683,
+    "Stocks December 15": 892,
+    "Average price per pound": 1.12,
+    "Value of production": 1885,
+    "Year": 2007
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 160,
+    "Yield per colony": 71,
+    "Production": 11360,
+    "Stocks December 15": 1363,
+    "Average price per pound": 0.99,
+    "Value of production": 11246,
+    "Year": 2007
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 60,
+    "Yield per colony": 58,
+    "Production": 3480,
+    "Stocks December 15": 522,
+    "Average price per pound": 1.14,
+    "Value of production": 3967,
+    "Year": 2007
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 92,
+    "Production": 920,
+    "Stocks December 15": 285,
+    "Average price per pound": 1.58,
+    "Value of production": 1454,
+    "Year": 2007
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 92,
+    "Yield per colony": 41,
+    "Production": 3772,
+    "Stocks December 15": 1848,
+    "Average price per pound": 1.08,
+    "Value of production": 4074,
+    "Year": 2007
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 63,
+    "Production": 567,
+    "Stocks December 15": 374,
+    "Average price per pound": 2.4,
+    "Value of production": 1361,
+    "Year": 2007
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 51,
+    "Production": 357,
+    "Stocks December 15": 100,
+    "Average price per pound": 1.39,
+    "Value of production": 496,
+    "Year": 2007
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 26,
+    "Yield per colony": 81,
+    "Production": 2106,
+    "Stocks December 15": 1221,
+    "Average price per pound": 1.26,
+    "Value of production": 2654,
+    "Year": 2007
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 40,
+    "Production": 560,
+    "Stocks December 15": 196,
+    "Average price per pound": 1.12,
+    "Value of production": 627,
+    "Year": 2007
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 4,
+    "Yield per colony": 61,
+    "Production": 244,
+    "Stocks December 15": 54,
+    "Average price per pound": 2.08,
+    "Value of production": 508,
+    "Year": 2007
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 29,
+    "Yield per colony": 89,
+    "Production": 2581,
+    "Stocks December 15": 413,
+    "Average price per pound": 1.08,
+    "Value of production": 2787,
+    "Year": 2007
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 9,
+    "Yield per colony": 26,
+    "Production": 234,
+    "Stocks December 15": 59,
+    "Average price per pound": 1.39,
+    "Value of production": 325,
+    "Year": 2007
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 72,
+    "Yield per colony": 64,
+    "Production": 4608,
+    "Stocks December 15": 2350,
+    "Average price per pound": 1.14,
+    "Value of production": 5253,
+    "Year": 2007
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 130,
+    "Yield per colony": 68,
+    "Production": 8840,
+    "Stocks December 15": 2564,
+    "Average price per pound": 0.99,
+    "Value of production": 8752,
+    "Year": 2007
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 15,
+    "Yield per colony": 105,
+    "Production": 1575,
+    "Stocks December 15": 189,
+    "Average price per pound": 0.9,
+    "Value of production": 1418,
+    "Year": 2007
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 13,
+    "Yield per colony": 47,
+    "Production": 611,
+    "Stocks December 15": 141,
+    "Average price per pound": 1.05,
+    "Value of production": 642,
+    "Year": 2007
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 135,
+    "Yield per colony": 68,
+    "Production": 9180,
+    "Stocks December 15": 2203,
+    "Average price per pound": 0.94,
+    "Value of production": 8629,
+    "Year": 2007
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 45,
+    "Yield per colony": 49,
+    "Production": 2205,
+    "Stocks December 15": 1477,
+    "Average price per pound": 0.98,
+    "Value of production": 2161,
+    "Year": 2007
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 10,
+    "Yield per colony": 28,
+    "Production": 280,
+    "Stocks December 15": 67,
+    "Average price per pound": 3.6,
+    "Value of production": 1008,
+    "Year": 2007
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 9,
+    "Yield per colony": 57,
+    "Production": 513,
+    "Stocks December 15": 185,
+    "Average price per pound": 2.17,
+    "Value of production": 1113,
+    "Year": 2007
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 6,
+    "Yield per colony": 59,
+    "Production": 354,
+    "Stocks December 15": 138,
+    "Average price per pound": 1.36,
+    "Value of production": 481,
+    "Year": 2007
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 56,
+    "Yield per colony": 57,
+    "Production": 3192,
+    "Stocks December 15": 1947,
+    "Average price per pound": 1.42,
+    "Value of production": 4533,
+    "Year": 2007
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 11,
+    "Yield per colony": 45,
+    "Production": 495,
+    "Stocks December 15": 69,
+    "Average price per pound": 2.25,
+    "Value of production": 1114,
+    "Year": 2007
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 420,
+    "Yield per colony": 74,
+    "Production": 31080,
+    "Stocks December 15": 9013,
+    "Average price per pound": 0.92,
+    "Value of production": 28594,
+    "Year": 2007
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 14,
+    "Yield per colony": 61,
+    "Production": 854,
+    "Stocks December 15": 376,
+    "Average price per pound": 1.75,
+    "Value of production": 1495,
+    "Year": 2007
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 44,
+    "Yield per colony": 43,
+    "Production": 1892,
+    "Stocks December 15": 1041,
+    "Average price per pound": 1.21,
+    "Value of production": 2289,
+    "Year": 2007
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 25,
+    "Yield per colony": 42,
+    "Production": 1050,
+    "Stocks December 15": 326,
+    "Average price per pound": 1.63,
+    "Value of production": 1712,
+    "Year": 2007
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 255,
+    "Yield per colony": 52,
+    "Production": 13260,
+    "Stocks December 15": 10608,
+    "Average price per pound": 0.93,
+    "Value of production": 12332,
+    "Year": 2007
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 65,
+    "Production": 455,
+    "Stocks December 15": 114,
+    "Average price per pound": 1.95,
+    "Value of production": 887,
+    "Year": 2007
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 105,
+    "Yield per colony": 82,
+    "Production": 8610,
+    "Stocks December 15": 1550,
+    "Average price per pound": 0.95,
+    "Value of production": 8180,
+    "Year": 2007
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 25,
+    "Yield per colony": 39,
+    "Production": 975,
+    "Stocks December 15": 224,
+    "Average price per pound": 1.12,
+    "Value of production": 1092,
+    "Year": 2007
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 5,
+    "Yield per colony": 64,
+    "Production": 320,
+    "Stocks December 15": 96,
+    "Average price per pound": 1.26,
+    "Value of production": 403,
+    "Year": 2007
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 46,
+    "Production": 276,
+    "Stocks December 15": 63,
+    "Average price per pound": 2.35,
+    "Value of production": 649,
+    "Year": 2007
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 46,
+    "Yield per colony": 44,
+    "Production": 2024,
+    "Stocks December 15": 648,
+    "Average price per pound": 1.25,
+    "Value of production": 2530,
+    "Year": 2007
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 48,
+    "Production": 240,
+    "Stocks December 15": 79,
+    "Average price per pound": 1.96,
+    "Value of production": 470,
+    "Year": 2007
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 60,
+    "Yield per colony": 84,
+    "Production": 5040,
+    "Stocks December 15": 3024,
+    "Average price per pound": 1.15,
+    "Value of production": 5796,
+    "Year": 2007
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 43,
+    "Yield per colony": 80,
+    "Production": 3440,
+    "Stocks December 15": 894,
+    "Average price per pound": 1.03,
+    "Value of production": 3543,
+    "Year": 2007
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 18,
+    "Yield per colony": 49,
+    "Production": 873,
+    "Stocks December 15": 271,
+    "Average price per pound": 2.53,
+    "Value of production": 2209,
+    "Year": 2007
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2442,
+    "Yield per colony": 60.8,
+    "Production": 148482,
+    "Stocks December 15": 52484,
+    "Average price per pound": 1.032,
+    "Value of production": 153233,
+    "Year": 2007
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 66,
+    "Production": 594,
+    "Stocks December 15": 214,
+    "Average price per pound": 1.86,
+    "Value of production": 1105,
+    "Year": 2008
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 25,
+    "Yield per colony": 64,
+    "Production": 1600,
+    "Stocks December 15": 336,
+    "Average price per pound": 1.25,
+    "Value of production": 2000,
+    "Year": 2008
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 28,
+    "Yield per colony": 75,
+    "Production": 2100,
+    "Stocks December 15": 525,
+    "Average price per pound": 1.31,
+    "Value of production": 2751,
+    "Year": 2008
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 360,
+    "Yield per colony": 51,
+    "Production": 18360,
+    "Stocks December 15": 4039,
+    "Average price per pound": 1.41,
+    "Value of production": 25888,
+    "Year": 2008
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 27,
+    "Yield per colony": 45,
+    "Production": 1215,
+    "Stocks December 15": 656,
+    "Average price per pound": 1.5,
+    "Value of production": 1823,
+    "Year": 2008
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 150,
+    "Yield per colony": 79,
+    "Production": 11850,
+    "Stocks December 15": 1304,
+    "Average price per pound": 1.3,
+    "Value of production": 15405,
+    "Year": 2008
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 55,
+    "Yield per colony": 71,
+    "Production": 3905,
+    "Stocks December 15": 312,
+    "Average price per pound": 1.49,
+    "Value of production": 5818,
+    "Year": 2008
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 90,
+    "Production": 900,
+    "Stocks December 15": 225,
+    "Average price per pound": 1.48,
+    "Value of production": 1332,
+    "Year": 2008
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 90,
+    "Yield per colony": 40,
+    "Production": 3600,
+    "Stocks December 15": 1440,
+    "Average price per pound": 1.42,
+    "Value of production": 5112,
+    "Year": 2008
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 56,
+    "Production": 448,
+    "Stocks December 15": 116,
+    "Average price per pound": 2.46,
+    "Value of production": 1102,
+    "Year": 2008
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 67,
+    "Production": 402,
+    "Stocks December 15": 129,
+    "Average price per pound": 1.61,
+    "Value of production": 647,
+    "Year": 2008
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 24,
+    "Yield per colony": 62,
+    "Production": 1488,
+    "Stocks December 15": 580,
+    "Average price per pound": 1.56,
+    "Value of production": 2321,
+    "Year": 2008
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 10,
+    "Yield per colony": 61,
+    "Production": 610,
+    "Stocks December 15": 128,
+    "Average price per pound": 1.52,
+    "Value of production": 927,
+    "Year": 2008
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 4,
+    "Yield per colony": 39,
+    "Production": 156,
+    "Stocks December 15": 27,
+    "Average price per pound": 2.36,
+    "Value of production": 368,
+    "Year": 2008
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 29,
+    "Yield per colony": 77,
+    "Production": 2233,
+    "Stocks December 15": 246,
+    "Average price per pound": 1.33,
+    "Value of production": 2970,
+    "Year": 2008
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 7,
+    "Yield per colony": 42,
+    "Production": 294,
+    "Stocks December 15": 79,
+    "Average price per pound": 1.5,
+    "Value of production": 441,
+    "Year": 2008
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 71,
+    "Yield per colony": 73,
+    "Production": 5183,
+    "Stocks December 15": 2021,
+    "Average price per pound": 1.43,
+    "Value of production": 7412,
+    "Year": 2008
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 122,
+    "Yield per colony": 78,
+    "Production": 9516,
+    "Stocks December 15": 2569,
+    "Average price per pound": 1.39,
+    "Value of production": 13227,
+    "Year": 2008
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 98,
+    "Production": 1372,
+    "Stocks December 15": 110,
+    "Average price per pound": 1.3,
+    "Value of production": 1784,
+    "Year": 2008
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 11,
+    "Yield per colony": 53,
+    "Production": 583,
+    "Stocks December 15": 152,
+    "Average price per pound": 1.78,
+    "Value of production": 1038,
+    "Year": 2008
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 134,
+    "Yield per colony": 70,
+    "Production": 9380,
+    "Stocks December 15": 4596,
+    "Average price per pound": 1.37,
+    "Value of production": 12851,
+    "Year": 2008
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 36,
+    "Yield per colony": 67,
+    "Production": 2412,
+    "Stocks December 15": 1254,
+    "Average price per pound": 1.42,
+    "Value of production": 3425,
+    "Year": 2008
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 10,
+    "Yield per colony": 29,
+    "Production": 290,
+    "Stocks December 15": 52,
+    "Average price per pound": 2.37,
+    "Value of production": 687,
+    "Year": 2008
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 9,
+    "Yield per colony": 40,
+    "Production": 360,
+    "Stocks December 15": 122,
+    "Average price per pound": 1.58,
+    "Value of production": 569,
+    "Year": 2008
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 6,
+    "Yield per colony": 48,
+    "Production": 288,
+    "Stocks December 15": 95,
+    "Average price per pound": 1.48,
+    "Value of production": 426,
+    "Year": 2008
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 50,
+    "Yield per colony": 70,
+    "Production": 3500,
+    "Stocks December 15": 1260,
+    "Average price per pound": 1.5,
+    "Value of production": 5250,
+    "Year": 2008
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 12,
+    "Yield per colony": 52,
+    "Production": 624,
+    "Stocks December 15": 137,
+    "Average price per pound": 2.12,
+    "Value of production": 1323,
+    "Year": 2008
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 390,
+    "Yield per colony": 90,
+    "Production": 35100,
+    "Stocks December 15": 8424,
+    "Average price per pound": 1.35,
+    "Value of production": 47385,
+    "Year": 2008
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 14,
+    "Yield per colony": 53,
+    "Production": 742,
+    "Stocks December 15": 371,
+    "Average price per pound": 1.88,
+    "Value of production": 1395,
+    "Year": 2008
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 50,
+    "Yield per colony": 43,
+    "Production": 2150,
+    "Stocks December 15": 1097,
+    "Average price per pound": 1.48,
+    "Value of production": 3182,
+    "Year": 2008
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 23,
+    "Yield per colony": 48,
+    "Production": 1104,
+    "Stocks December 15": 276,
+    "Average price per pound": 1.65,
+    "Value of production": 1822,
+    "Year": 2008
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 225,
+    "Yield per colony": 95,
+    "Production": 21375,
+    "Stocks December 15": 11970,
+    "Average price per pound": 1.34,
+    "Value of production": 28643,
+    "Year": 2008
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 61,
+    "Production": 427,
+    "Stocks December 15": 149,
+    "Average price per pound": 2.04,
+    "Value of production": 871,
+    "Year": 2008
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 77,
+    "Yield per colony": 64,
+    "Production": 4928,
+    "Stocks December 15": 1380,
+    "Average price per pound": 1.34,
+    "Value of production": 6604,
+    "Year": 2008
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 28,
+    "Yield per colony": 48,
+    "Production": 1344,
+    "Stocks December 15": 242,
+    "Average price per pound": 1.56,
+    "Value of production": 2097,
+    "Year": 2008
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 5,
+    "Yield per colony": 66,
+    "Production": 330,
+    "Stocks December 15": 119,
+    "Average price per pound": 1.79,
+    "Value of production": 591,
+    "Year": 2008
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 42,
+    "Production": 252,
+    "Stocks December 15": 45,
+    "Average price per pound": 2.18,
+    "Value of production": 549,
+    "Year": 2008
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 41,
+    "Yield per colony": 44,
+    "Production": 1804,
+    "Stocks December 15": 722,
+    "Average price per pound": 1.5,
+    "Value of production": 2706,
+    "Year": 2008
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 43,
+    "Production": 258,
+    "Stocks December 15": 49,
+    "Average price per pound": 1.98,
+    "Value of production": 511,
+    "Year": 2008
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 58,
+    "Yield per colony": 80,
+    "Production": 4640,
+    "Stocks December 15": 2366,
+    "Average price per pound": 1.4,
+    "Value of production": 6496,
+    "Year": 2008
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 61,
+    "Production": 2379,
+    "Stocks December 15": 381,
+    "Average price per pound": 1.37,
+    "Value of production": 3259,
+    "Year": 2008
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 15,
+    "Yield per colony": 51,
+    "Production": 765,
+    "Stocks December 15": 130,
+    "Average price per pound": 2.29,
+    "Value of production": 1752,
+    "Year": 2008
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2301,
+    "Yield per colony": 69.9,
+    "Production": 160861,
+    "Stocks December 15": 50445,
+    "Average price per pound": 1.41,
+    "Value of production": 226814,
+    "Year": 2008
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 49,
+    "Production": 441,
+    "Stocks December 15": 66,
+    "Average price per pound": 1.82,
+    "Value of production": 803,
+    "Year": 2009
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 20,
+    "Yield per colony": 52,
+    "Production": 1040,
+    "Stocks December 15": 562,
+    "Average price per pound": 1.53,
+    "Value of production": 1591,
+    "Year": 2009
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 24,
+    "Yield per colony": 57,
+    "Production": 1368,
+    "Stocks December 15": 301,
+    "Average price per pound": 1.39,
+    "Value of production": 1902,
+    "Year": 2009
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 355,
+    "Yield per colony": 33,
+    "Production": 11715,
+    "Stocks December 15": 2109,
+    "Average price per pound": 1.39,
+    "Value of production": 16284,
+    "Year": 2009
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 28,
+    "Yield per colony": 53,
+    "Production": 1484,
+    "Stocks December 15": 326,
+    "Average price per pound": 1.4,
+    "Value of production": 2078,
+    "Year": 2009
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 150,
+    "Yield per colony": 68,
+    "Production": 10200,
+    "Stocks December 15": 1428,
+    "Average price per pound": 1.38,
+    "Value of production": 14076,
+    "Year": 2009
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 65,
+    "Yield per colony": 41,
+    "Production": 2665,
+    "Stocks December 15": 346,
+    "Average price per pound": 1.47,
+    "Value of production": 3918,
+    "Year": 2009
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 95,
+    "Production": 950,
+    "Stocks December 15": 323,
+    "Average price per pound": 1.63,
+    "Value of production": 1549,
+    "Year": 2009
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 103,
+    "Yield per colony": 46,
+    "Production": 4738,
+    "Stocks December 15": 1706,
+    "Average price per pound": 1.45,
+    "Value of production": 6870,
+    "Year": 2009
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 34,
+    "Production": 272,
+    "Stocks December 15": 57,
+    "Average price per pound": 2.26,
+    "Value of production": 615,
+    "Year": 2009
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 9,
+    "Yield per colony": 32,
+    "Production": 288,
+    "Stocks December 15": 101,
+    "Average price per pound": 1.98,
+    "Value of production": 570,
+    "Year": 2009
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 26,
+    "Yield per colony": 42,
+    "Production": 1092,
+    "Stocks December 15": 339,
+    "Average price per pound": 1.51,
+    "Value of production": 1649,
+    "Year": 2009
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 9,
+    "Yield per colony": 63,
+    "Production": 567,
+    "Stocks December 15": 164,
+    "Average price per pound": 1.89,
+    "Value of production": 1072,
+    "Year": 2009
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 35,
+    "Production": 175,
+    "Stocks December 15": 25,
+    "Average price per pound": 2.73,
+    "Value of production": 478,
+    "Year": 2009
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 37,
+    "Yield per colony": 103,
+    "Production": 3811,
+    "Stocks December 15": 610,
+    "Average price per pound": 1.32,
+    "Value of production": 5031,
+    "Year": 2009
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 6,
+    "Yield per colony": 50,
+    "Production": 300,
+    "Stocks December 15": 51,
+    "Average price per pound": 1.86,
+    "Value of production": 558,
+    "Year": 2009
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 66,
+    "Yield per colony": 60,
+    "Production": 3960,
+    "Stocks December 15": 1505,
+    "Average price per pound": 1.51,
+    "Value of production": 5980,
+    "Year": 2009
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 122,
+    "Yield per colony": 65,
+    "Production": 7930,
+    "Stocks December 15": 1427,
+    "Average price per pound": 1.4,
+    "Value of production": 11102,
+    "Year": 2009
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 14,
+    "Yield per colony": 104,
+    "Production": 1456,
+    "Stocks December 15": 87,
+    "Average price per pound": 1.32,
+    "Value of production": 1922,
+    "Year": 2009
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 11,
+    "Yield per colony": 47,
+    "Production": 517,
+    "Stocks December 15": 57,
+    "Average price per pound": 1.98,
+    "Value of production": 1024,
+    "Year": 2009
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 146,
+    "Yield per colony": 70,
+    "Production": 10220,
+    "Stocks December 15": 3577,
+    "Average price per pound": 1.45,
+    "Value of production": 14819,
+    "Year": 2009
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 48,
+    "Yield per colony": 56,
+    "Production": 2688,
+    "Stocks December 15": 1102,
+    "Average price per pound": 1.44,
+    "Value of production": 3871,
+    "Year": 2009
+  },
+  {
+    "State": "NV",
+    "Honey producing colonies": 10,
+    "Yield per colony": 52,
+    "Production": 520,
+    "Stocks December 15": 57,
+    "Average price per pound": 1.29,
+    "Value of production": 671,
+    "Year": 2009
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 9,
+    "Yield per colony": 32,
+    "Production": 288,
+    "Stocks December 15": 46,
+    "Average price per pound": 1.93,
+    "Value of production": 556,
+    "Year": 2009
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 7,
+    "Yield per colony": 60,
+    "Production": 420,
+    "Stocks December 15": 143,
+    "Average price per pound": 1.63,
+    "Value of production": 685,
+    "Year": 2009
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 47,
+    "Yield per colony": 65,
+    "Production": 3055,
+    "Stocks December 15": 978,
+    "Average price per pound": 1.83,
+    "Value of production": 5591,
+    "Year": 2009
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 11,
+    "Yield per colony": 45,
+    "Production": 495,
+    "Stocks December 15": 84,
+    "Average price per pound": 2.52,
+    "Value of production": 1247,
+    "Year": 2009
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 450,
+    "Yield per colony": 77,
+    "Production": 34650,
+    "Stocks December 15": 7623,
+    "Average price per pound": 1.37,
+    "Value of production": 47471,
+    "Year": 2009
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 11,
+    "Yield per colony": 50,
+    "Production": 550,
+    "Stocks December 15": 132,
+    "Average price per pound": 2.75,
+    "Value of production": 1513,
+    "Year": 2009
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 55,
+    "Yield per colony": 34,
+    "Production": 1870,
+    "Stocks December 15": 767,
+    "Average price per pound": 1.49,
+    "Value of production": 2786,
+    "Year": 2009
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 21,
+    "Yield per colony": 40,
+    "Production": 840,
+    "Stocks December 15": 319,
+    "Average price per pound": 1.99,
+    "Value of production": 1672,
+    "Year": 2009
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 270,
+    "Yield per colony": 66,
+    "Production": 17820,
+    "Stocks December 15": 6237,
+    "Average price per pound": 1.39,
+    "Value of production": 24770,
+    "Year": 2009
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 51,
+    "Production": 357,
+    "Stocks December 15": 86,
+    "Average price per pound": 2.35,
+    "Value of production": 839,
+    "Year": 2009
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 74,
+    "Yield per colony": 63,
+    "Production": 4662,
+    "Stocks December 15": 886,
+    "Average price per pound": 1.38,
+    "Value of production": 6434,
+    "Year": 2009
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 26,
+    "Yield per colony": 38,
+    "Production": 988,
+    "Stocks December 15": 198,
+    "Average price per pound": 1.47,
+    "Value of production": 1452,
+    "Year": 2009
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 5,
+    "Yield per colony": 49,
+    "Production": 245,
+    "Stocks December 15": 69,
+    "Average price per pound": 2.36,
+    "Value of production": 578,
+    "Year": 2009
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 39,
+    "Production": 234,
+    "Stocks December 15": 56,
+    "Average price per pound": 3.28,
+    "Value of production": 768,
+    "Year": 2009
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 62,
+    "Yield per colony": 44,
+    "Production": 2728,
+    "Stocks December 15": 1064,
+    "Average price per pound": 1.49,
+    "Value of production": 4065,
+    "Year": 2009
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 37,
+    "Production": 185,
+    "Stocks December 15": 33,
+    "Average price per pound": 2.67,
+    "Value of production": 494,
+    "Year": 2009
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 63,
+    "Yield per colony": 60,
+    "Production": 3780,
+    "Stocks December 15": 1588,
+    "Average price per pound": 1.51,
+    "Value of production": 5708,
+    "Year": 2009
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 37,
+    "Yield per colony": 48,
+    "Production": 1776,
+    "Stocks December 15": 391,
+    "Average price per pound": 1.43,
+    "Value of production": 2540,
+    "Year": 2009
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 15,
+    "Yield per colony": 51,
+    "Production": 768,
+    "Stocks December 15": 127,
+    "Average price per pound": 2.8,
+    "Value of production": 2150,
+    "Year": 2009
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2462,
+    "Yield per colony": 58.5,
+    "Production": 144108,
+    "Stocks December 15": 37153,
+    "Average price per pound": 1.445,
+    "Value of production": 208236,
+    "Year": 2009
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 54,
+    "Production": 486,
+    "Stocks December 15": 73,
+    "Average price per pound": 2.22,
+    "Value of production": 1079,
+    "Year": 2010
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 24,
+    "Yield per colony": 77,
+    "Production": 1848,
+    "Stocks December 15": 665,
+    "Average price per pound": 1.43,
+    "Value of production": 2643,
+    "Year": 2010
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 25,
+    "Yield per colony": 60,
+    "Production": 1500,
+    "Stocks December 15": 360,
+    "Average price per pound": 1.47,
+    "Value of production": 2205,
+    "Year": 2010
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 410,
+    "Yield per colony": 67,
+    "Production": 27470,
+    "Stocks December 15": 6318,
+    "Average price per pound": 1.56,
+    "Value of production": 42853,
+    "Year": 2010
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 34,
+    "Yield per colony": 56,
+    "Production": 1904,
+    "Stocks December 15": 533,
+    "Average price per pound": 1.5,
+    "Value of production": 2856,
+    "Year": 2010
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 200,
+    "Yield per colony": 69,
+    "Production": 13800,
+    "Stocks December 15": 1794,
+    "Average price per pound": 1.57,
+    "Value of production": 21666,
+    "Year": 2010
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 55,
+    "Yield per colony": 46,
+    "Production": 2530,
+    "Stocks December 15": 152,
+    "Average price per pound": 1.67,
+    "Value of production": 4225,
+    "Year": 2010
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 77,
+    "Production": 770,
+    "Stocks December 15": 239,
+    "Average price per pound": 2.27,
+    "Value of production": 1748,
+    "Year": 2010
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 98,
+    "Yield per colony": 27,
+    "Production": 2646,
+    "Stocks December 15": 1191,
+    "Average price per pound": 1.5,
+    "Value of production": 3969,
+    "Year": 2010
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 41,
+    "Production": 369,
+    "Stocks December 15": 92,
+    "Average price per pound": 3.05,
+    "Value of production": 1125,
+    "Year": 2010
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 10,
+    "Yield per colony": 43,
+    "Production": 430,
+    "Stocks December 15": 151,
+    "Average price per pound": 2.26,
+    "Value of production": 972,
+    "Year": 2010
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 27,
+    "Yield per colony": 49,
+    "Production": 1323,
+    "Stocks December 15": 463,
+    "Average price per pound": 1.89,
+    "Value of production": 2500,
+    "Year": 2010
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 9,
+    "Yield per colony": 52,
+    "Production": 468,
+    "Stocks December 15": 103,
+    "Average price per pound": 2.29,
+    "Value of production": 1072,
+    "Year": 2010
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 67,
+    "Production": 335,
+    "Stocks December 15": 67,
+    "Average price per pound": 2.64,
+    "Value of production": 884,
+    "Year": 2010
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 21,
+    "Yield per colony": 80,
+    "Production": 1680,
+    "Stocks December 15": 269,
+    "Average price per pound": 1.48,
+    "Value of production": 2486,
+    "Year": 2010
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 6,
+    "Yield per colony": 41,
+    "Production": 246,
+    "Stocks December 15": 39,
+    "Average price per pound": 2.11,
+    "Value of production": 519,
+    "Year": 2010
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 70,
+    "Yield per colony": 58,
+    "Production": 4060,
+    "Stocks December 15": 1502,
+    "Average price per pound": 1.64,
+    "Value of production": 6658,
+    "Year": 2010
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 126,
+    "Yield per colony": 66,
+    "Production": 8316,
+    "Stocks December 15": 1746,
+    "Average price per pound": 1.54,
+    "Value of production": 12807,
+    "Year": 2010
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 16,
+    "Yield per colony": 98,
+    "Production": 1568,
+    "Stocks December 15": 78,
+    "Average price per pound": 1.47,
+    "Value of production": 2305,
+    "Year": 2010
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 11,
+    "Yield per colony": 52,
+    "Production": 572,
+    "Stocks December 15": 92,
+    "Average price per pound": 1.8,
+    "Value of production": 1030,
+    "Year": 2010
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 157,
+    "Yield per colony": 74,
+    "Production": 11618,
+    "Stocks December 15": 2905,
+    "Average price per pound": 1.55,
+    "Value of production": 18008,
+    "Year": 2010
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 44,
+    "Yield per colony": 55,
+    "Production": 2420,
+    "Stocks December 15": 1041,
+    "Average price per pound": 1.49,
+    "Value of production": 3606,
+    "Year": 2010
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 13,
+    "Yield per colony": 35,
+    "Production": 455,
+    "Stocks December 15": 73,
+    "Average price per pound": 1.75,
+    "Value of production": 796,
+    "Year": 2010
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 7,
+    "Yield per colony": 66,
+    "Production": 462,
+    "Stocks December 15": 157,
+    "Average price per pound": 1.58,
+    "Value of production": 730,
+    "Year": 2010
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 47,
+    "Yield per colony": 64,
+    "Production": 3008,
+    "Stocks December 15": 1173,
+    "Average price per pound": 1.78,
+    "Value of production": 5354,
+    "Year": 2010
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 13,
+    "Yield per colony": 46,
+    "Production": 598,
+    "Stocks December 15": 138,
+    "Average price per pound": 2.73,
+    "Value of production": 1633,
+    "Year": 2010
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 510,
+    "Yield per colony": 91,
+    "Production": 46410,
+    "Stocks December 15": 12995,
+    "Average price per pound": 1.51,
+    "Value of production": 70079,
+    "Year": 2010
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 17,
+    "Yield per colony": 62,
+    "Production": 1054,
+    "Stocks December 15": 327,
+    "Average price per pound": 2.23,
+    "Value of production": 2350,
+    "Year": 2010
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 59,
+    "Yield per colony": 39,
+    "Production": 2301,
+    "Stocks December 15": 874,
+    "Average price per pound": 1.62,
+    "Value of production": 3728,
+    "Year": 2010
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 30,
+    "Yield per colony": 37,
+    "Production": 1110,
+    "Stocks December 15": 377,
+    "Average price per pound": 2.05,
+    "Value of production": 2276,
+    "Year": 2010
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 265,
+    "Yield per colony": 59,
+    "Production": 15635,
+    "Stocks December 15": 4847,
+    "Average price per pound": 1.54,
+    "Value of production": 24078,
+    "Year": 2010
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 63,
+    "Production": 504,
+    "Stocks December 15": 106,
+    "Average price per pound": 2.45,
+    "Value of production": 1235,
+    "Year": 2010
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 100,
+    "Yield per colony": 72,
+    "Production": 7200,
+    "Stocks December 15": 792,
+    "Average price per pound": 1.53,
+    "Value of production": 11016,
+    "Year": 2010
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 26,
+    "Yield per colony": 30,
+    "Production": 780,
+    "Stocks December 15": 195,
+    "Average price per pound": 1.52,
+    "Value of production": 1186,
+    "Year": 2010
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 4,
+    "Yield per colony": 65,
+    "Production": 260,
+    "Stocks December 15": 73,
+    "Average price per pound": 2.21,
+    "Value of production": 575,
+    "Year": 2010
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 5,
+    "Yield per colony": 37,
+    "Production": 185,
+    "Stocks December 15": 37,
+    "Average price per pound": 3.31,
+    "Value of production": 612,
+    "Year": 2010
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 71,
+    "Yield per colony": 37,
+    "Production": 2627,
+    "Stocks December 15": 1077,
+    "Average price per pound": 1.52,
+    "Value of production": 3993,
+    "Year": 2010
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 38,
+    "Production": 190,
+    "Stocks December 15": 38,
+    "Average price per pound": 2.39,
+    "Value of production": 454,
+    "Year": 2010
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 68,
+    "Yield per colony": 64,
+    "Production": 4352,
+    "Stocks December 15": 1654,
+    "Average price per pound": 1.67,
+    "Value of production": 7268,
+    "Year": 2010
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 34,
+    "Yield per colony": 36,
+    "Production": 1224,
+    "Stocks December 15": 282,
+    "Average price per pound": 1.6,
+    "Value of production": 1958,
+    "Year": 2010
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 26,
+    "Yield per colony": 46,
+    "Production": 1190,
+    "Stocks December 15": 219,
+    "Average price per pound": 2.56,
+    "Value of production": 3046,
+    "Year": 2010
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2684,
+    "Yield per colony": 65.5,
+    "Production": 175904,
+    "Stocks December 15": 45307,
+    "Average price per pound": 1.6030000000000002,
+    "Value of production": 281974,
+    "Year": 2010
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 9,
+    "Yield per colony": 50,
+    "Production": 450,
+    "Stocks December 15": 63,
+    "Average price per pound": 2.5,
+    "Value of production": 1125,
+    "Year": 2011
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 23,
+    "Yield per colony": 53,
+    "Production": 1219,
+    "Stocks December 15": 427,
+    "Average price per pound": 1.5,
+    "Value of production": 1829,
+    "Year": 2011
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 22,
+    "Yield per colony": 64,
+    "Production": 1408,
+    "Stocks December 15": 239,
+    "Average price per pound": 1.61,
+    "Value of production": 2267,
+    "Year": 2011
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 370,
+    "Yield per colony": 48,
+    "Production": 17760,
+    "Stocks December 15": 3730,
+    "Average price per pound": 1.61,
+    "Value of production": 28594,
+    "Year": 2011
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 31,
+    "Yield per colony": 55,
+    "Production": 1705,
+    "Stocks December 15": 443,
+    "Average price per pound": 1.68,
+    "Value of production": 2864,
+    "Year": 2011
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 180,
+    "Yield per colony": 61,
+    "Production": 10980,
+    "Stocks December 15": 988,
+    "Average price per pound": 1.65,
+    "Value of production": 18117,
+    "Year": 2011
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 65,
+    "Yield per colony": 43,
+    "Production": 2795,
+    "Stocks December 15": 196,
+    "Average price per pound": 1.61,
+    "Value of production": 4500,
+    "Year": 2011
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 9,
+    "Yield per colony": 74,
+    "Production": 666,
+    "Stocks December 15": 246,
+    "Average price per pound": 4.71,
+    "Value of production": 3137,
+    "Year": 2011
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 87,
+    "Yield per colony": 36,
+    "Production": 3132,
+    "Stocks December 15": 1879,
+    "Average price per pound": 1.78,
+    "Value of production": 5575,
+    "Year": 2011
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 50,
+    "Production": 350,
+    "Stocks December 15": 98,
+    "Average price per pound": 3.98,
+    "Value of production": 1393,
+    "Year": 2011
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 51,
+    "Production": 408,
+    "Stocks December 15": 147,
+    "Average price per pound": 2.06,
+    "Value of production": 840,
+    "Year": 2011
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 25,
+    "Yield per colony": 62,
+    "Production": 1550,
+    "Stocks December 15": 961,
+    "Average price per pound": 1.95,
+    "Value of production": 3023,
+    "Year": 2011
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 44,
+    "Production": 308,
+    "Stocks December 15": 117,
+    "Average price per pound": 2.15,
+    "Value of production": 662,
+    "Year": 2011
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 4,
+    "Yield per colony": 39,
+    "Production": 156,
+    "Stocks December 15": 12,
+    "Average price per pound": 2.8,
+    "Value of production": 437,
+    "Year": 2011
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 36,
+    "Yield per colony": 77,
+    "Production": 2772,
+    "Stocks December 15": 471,
+    "Average price per pound": 1.67,
+    "Value of production": 4629,
+    "Year": 2011
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 4,
+    "Yield per colony": 30,
+    "Production": 120,
+    "Stocks December 15": 17,
+    "Average price per pound": 1.91,
+    "Value of production": 229,
+    "Year": 2011
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 74,
+    "Yield per colony": 64,
+    "Production": 4736,
+    "Stocks December 15": 2084,
+    "Average price per pound": 1.76,
+    "Value of production": 8335,
+    "Year": 2011
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 120,
+    "Yield per colony": 53,
+    "Production": 6360,
+    "Stocks December 15": 2099,
+    "Average price per pound": 1.59,
+    "Value of production": 10112,
+    "Year": 2011
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 18,
+    "Yield per colony": 115,
+    "Production": 2070,
+    "Stocks December 15": 104,
+    "Average price per pound": 1.53,
+    "Value of production": 3167,
+    "Year": 2011
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 8,
+    "Yield per colony": 43,
+    "Production": 344,
+    "Stocks December 15": 76,
+    "Average price per pound": 2.09,
+    "Value of production": 719,
+    "Year": 2011
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 145,
+    "Yield per colony": 92,
+    "Production": 13340,
+    "Stocks December 15": 3202,
+    "Average price per pound": 1.64,
+    "Value of production": 21878,
+    "Year": 2011
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 41,
+    "Yield per colony": 59,
+    "Production": 2419,
+    "Stocks December 15": 653,
+    "Average price per pound": 1.73,
+    "Value of production": 4185,
+    "Year": 2011
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 11,
+    "Yield per colony": 41,
+    "Production": 451,
+    "Stocks December 15": 135,
+    "Average price per pound": 3.76,
+    "Value of production": 1696,
+    "Year": 2011
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 7,
+    "Yield per colony": 56,
+    "Production": 392,
+    "Stocks December 15": 153,
+    "Average price per pound": 1.66,
+    "Value of production": 651,
+    "Year": 2011
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 49,
+    "Yield per colony": 56,
+    "Production": 2744,
+    "Stocks December 15": 1235,
+    "Average price per pound": 1.93,
+    "Value of production": 5296,
+    "Year": 2011
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 14,
+    "Yield per colony": 62,
+    "Production": 868,
+    "Stocks December 15": 95,
+    "Average price per pound": 2.82,
+    "Value of production": 2448,
+    "Year": 2011
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 460,
+    "Yield per colony": 71,
+    "Production": 32660,
+    "Stocks December 15": 7512,
+    "Average price per pound": 1.66,
+    "Value of production": 54216,
+    "Year": 2011
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 66,
+    "Production": 990,
+    "Stocks December 15": 228,
+    "Average price per pound": 2.26,
+    "Value of production": 2237,
+    "Year": 2011
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 60,
+    "Yield per colony": 34,
+    "Production": 2040,
+    "Stocks December 15": 755,
+    "Average price per pound": 1.74,
+    "Value of production": 3550,
+    "Year": 2011
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 24,
+    "Yield per colony": 44,
+    "Production": 1056,
+    "Stocks December 15": 306,
+    "Average price per pound": 2.42,
+    "Value of production": 2556,
+    "Year": 2011
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 250,
+    "Yield per colony": 66,
+    "Production": 16500,
+    "Stocks December 15": 4290,
+    "Average price per pound": 1.65,
+    "Value of production": 27225,
+    "Year": 2011
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 44,
+    "Production": 308,
+    "Stocks December 15": 68,
+    "Average price per pound": 2.98,
+    "Value of production": 918,
+    "Year": 2011
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 78,
+    "Yield per colony": 58,
+    "Production": 4524,
+    "Stocks December 15": 633,
+    "Average price per pound": 1.77,
+    "Value of production": 8007,
+    "Year": 2011
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 23,
+    "Yield per colony": 39,
+    "Production": 897,
+    "Stocks December 15": 170,
+    "Average price per pound": 1.75,
+    "Value of production": 1570,
+    "Year": 2011
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 4,
+    "Yield per colony": 43,
+    "Production": 172,
+    "Stocks December 15": 43,
+    "Average price per pound": 2.3,
+    "Value of production": 396,
+    "Year": 2011
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 4,
+    "Yield per colony": 40,
+    "Production": 160,
+    "Stocks December 15": 21,
+    "Average price per pound": 4,
+    "Value of production": 640,
+    "Year": 2011
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 71,
+    "Yield per colony": 38,
+    "Production": 2698,
+    "Stocks December 15": 836,
+    "Average price per pound": 1.76,
+    "Value of production": 4748,
+    "Year": 2011
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 4,
+    "Yield per colony": 53,
+    "Production": 212,
+    "Stocks December 15": 45,
+    "Average price per pound": 2.42,
+    "Value of production": 513,
+    "Year": 2011
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 57,
+    "Yield per colony": 63,
+    "Production": 3591,
+    "Stocks December 15": 1508,
+    "Average price per pound": 1.8,
+    "Value of production": 6464,
+    "Year": 2011
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 35,
+    "Yield per colony": 54,
+    "Production": 1890,
+    "Stocks December 15": 265,
+    "Average price per pound": 1.76,
+    "Value of production": 3326,
+    "Year": 2011
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 25,
+    "Yield per colony": 46,
+    "Production": 1156,
+    "Stocks December 15": 211,
+    "Average price per pound": 2.86,
+    "Value of production": 3306,
+    "Year": 2011
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2491,
+    "Yield per colony": 59.6,
+    "Production": 148357,
+    "Stocks December 15": 36761,
+    "Average price per pound": 1.729,
+    "Value of production": 256509,
+    "Year": 2011
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 54,
+    "Production": 432,
+    "Stocks December 15": 65,
+    "Average price per pound": 2.43,
+    "Value of production": 1050,
+    "Year": 2012
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 22,
+    "Yield per colony": 46,
+    "Production": 1012,
+    "Stocks December 15": 253,
+    "Average price per pound": 1.7,
+    "Value of production": 1720,
+    "Year": 2012
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 26,
+    "Yield per colony": 63,
+    "Production": 1638,
+    "Stocks December 15": 197,
+    "Average price per pound": 1.84,
+    "Value of production": 3014,
+    "Year": 2012
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 340,
+    "Yield per colony": 35,
+    "Production": 11900,
+    "Stocks December 15": 3213,
+    "Average price per pound": 1.93,
+    "Value of production": 22967,
+    "Year": 2012
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 26,
+    "Yield per colony": 48,
+    "Production": 1248,
+    "Stocks December 15": 487,
+    "Average price per pound": 2.12,
+    "Value of production": 2646,
+    "Year": 2012
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 199,
+    "Yield per colony": 64,
+    "Production": 12736,
+    "Stocks December 15": 1274,
+    "Average price per pound": 1.81,
+    "Value of production": 23052,
+    "Year": 2012
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 62,
+    "Yield per colony": 51,
+    "Production": 3162,
+    "Stocks December 15": 190,
+    "Average price per pound": 1.89,
+    "Value of production": 5976,
+    "Year": 2012
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 10,
+    "Yield per colony": 75,
+    "Production": 750,
+    "Stocks December 15": 263,
+    "Average price per pound": 3.19,
+    "Value of production": 2393,
+    "Year": 2012
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 96,
+    "Yield per colony": 32,
+    "Production": 3072,
+    "Stocks December 15": 553,
+    "Average price per pound": 1.61,
+    "Value of production": 4946,
+    "Year": 2012
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 61,
+    "Production": 427,
+    "Stocks December 15": 145,
+    "Average price per pound": 3.4,
+    "Value of production": 1452,
+    "Year": 2012
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 9,
+    "Yield per colony": 59,
+    "Production": 531,
+    "Stocks December 15": 228,
+    "Average price per pound": 2.44,
+    "Value of production": 1296,
+    "Year": 2012
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 38,
+    "Yield per colony": 61,
+    "Production": 2318,
+    "Stocks December 15": 1229,
+    "Average price per pound": 2.11,
+    "Value of production": 4891,
+    "Year": 2012
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 55,
+    "Production": 385,
+    "Stocks December 15": 146,
+    "Average price per pound": 2.35,
+    "Value of production": 905,
+    "Year": 2012
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 51,
+    "Production": 255,
+    "Stocks December 15": 41,
+    "Average price per pound": 3.18,
+    "Value of production": 811,
+    "Year": 2012
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 41,
+    "Yield per colony": 86,
+    "Production": 3526,
+    "Stocks December 15": 141,
+    "Average price per pound": 1.77,
+    "Value of production": 6241,
+    "Year": 2012
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 4,
+    "Yield per colony": 34,
+    "Production": 136,
+    "Stocks December 15": 24,
+    "Average price per pound": 2.25,
+    "Value of production": 306,
+    "Year": 2012
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 76,
+    "Yield per colony": 57,
+    "Production": 4332,
+    "Stocks December 15": 1386,
+    "Average price per pound": 2.03,
+    "Value of production": 8794,
+    "Year": 2012
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 130,
+    "Yield per colony": 67,
+    "Production": 8710,
+    "Stocks December 15": 1655,
+    "Average price per pound": 1.88,
+    "Value of production": 16375,
+    "Year": 2012
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 19,
+    "Yield per colony": 118,
+    "Production": 2242,
+    "Stocks December 15": 67,
+    "Average price per pound": 1.63,
+    "Value of production": 3654,
+    "Year": 2012
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 7,
+    "Yield per colony": 53,
+    "Production": 371,
+    "Stocks December 15": 108,
+    "Average price per pound": 2.56,
+    "Value of production": 950,
+    "Year": 2012
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 149,
+    "Yield per colony": 52,
+    "Production": 7748,
+    "Stocks December 15": 2479,
+    "Average price per pound": 1.91,
+    "Value of production": 14799,
+    "Year": 2012
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 44,
+    "Yield per colony": 65,
+    "Production": 2860,
+    "Stocks December 15": 1173,
+    "Average price per pound": 1.91,
+    "Value of production": 5463,
+    "Year": 2012
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 14,
+    "Yield per colony": 33,
+    "Production": 462,
+    "Stocks December 15": 51,
+    "Average price per pound": 1.88,
+    "Value of production": 869,
+    "Year": 2012
+  },
+  {
+    "State": "NM",
+    "Honey producing colonies": 5,
+    "Yield per colony": 52,
+    "Production": 260,
+    "Stocks December 15": 99,
+    "Average price per pound": 3.13,
+    "Value of production": 814,
+    "Year": 2012
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 52,
+    "Yield per colony": 51,
+    "Production": 2652,
+    "Stocks December 15": 1008,
+    "Average price per pound": 2.28,
+    "Value of production": 6047,
+    "Year": 2012
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 13,
+    "Yield per colony": 39,
+    "Production": 507,
+    "Stocks December 15": 106,
+    "Average price per pound": 3.69,
+    "Value of production": 1871,
+    "Year": 2012
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 495,
+    "Yield per colony": 69,
+    "Production": 34155,
+    "Stocks December 15": 6148,
+    "Average price per pound": 1.89,
+    "Value of production": 64553,
+    "Year": 2012
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 19,
+    "Yield per colony": 60,
+    "Production": 1140,
+    "Stocks December 15": 433,
+    "Average price per pound": 2.42,
+    "Value of production": 2759,
+    "Year": 2012
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 62,
+    "Yield per colony": 32,
+    "Production": 1984,
+    "Stocks December 15": 873,
+    "Average price per pound": 2.11,
+    "Value of production": 4186,
+    "Year": 2012
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 17,
+    "Yield per colony": 60,
+    "Production": 1020,
+    "Stocks December 15": 286,
+    "Average price per pound": 2.62,
+    "Value of production": 2672,
+    "Year": 2012
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 270,
+    "Yield per colony": 63,
+    "Production": 17010,
+    "Stocks December 15": 3742,
+    "Average price per pound": 1.94,
+    "Value of production": 32999,
+    "Year": 2012
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 61,
+    "Production": 427,
+    "Stocks December 15": 68,
+    "Average price per pound": 2.85,
+    "Value of production": 1217,
+    "Year": 2012
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 95,
+    "Yield per colony": 52,
+    "Production": 4940,
+    "Stocks December 15": 741,
+    "Average price per pound": 2,
+    "Value of production": 9880,
+    "Year": 2012
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 26,
+    "Yield per colony": 38,
+    "Production": 988,
+    "Stocks December 15": 217,
+    "Average price per pound": 1.85,
+    "Value of production": 1828,
+    "Year": 2012
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 4,
+    "Yield per colony": 60,
+    "Production": 240,
+    "Stocks December 15": 53,
+    "Average price per pound": 2.34,
+    "Value of production": 562,
+    "Year": 2012
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 4,
+    "Yield per colony": 41,
+    "Production": 164,
+    "Stocks December 15": 23,
+    "Average price per pound": 3.85,
+    "Value of production": 631,
+    "Year": 2012
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 64,
+    "Yield per colony": 41,
+    "Production": 2624,
+    "Stocks December 15": 1050,
+    "Average price per pound": 2.35,
+    "Value of production": 6166,
+    "Year": 2012
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 111,
+    "Average price per pound": 2.8,
+    "Value of production": 941,
+    "Year": 2012
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 63,
+    "Yield per colony": 69,
+    "Production": 4347,
+    "Stocks December 15": 1956,
+    "Average price per pound": 2.04,
+    "Value of production": 8868,
+    "Year": 2012
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 51,
+    "Yield per colony": 51,
+    "Production": 2601,
+    "Stocks December 15": 468,
+    "Average price per pound": 1.82,
+    "Value of production": 4734,
+    "Year": 2012
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 31,
+    "Yield per colony": 47,
+    "Production": 1444,
+    "Stocks December 15": 172,
+    "Average price per pound": 3.04,
+    "Value of production": 4390,
+    "Year": 2012
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2624,
+    "Yield per colony": 56.1,
+    "Production": 147092,
+    "Stocks December 15": 32922,
+    "Average price per pound": 1.9509999999999998,
+    "Value of production": 286976,
+    "Year": 2012
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 52,
+    "Production": 364,
+    "Stocks December 15": 55,
+    "Average price per pound": 2.81,
+    "Value of production": 1023,
+    "Year": 2013
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 29,
+    "Yield per colony": 36,
+    "Production": 1044,
+    "Stocks December 15": 251,
+    "Average price per pound": 1.89,
+    "Value of production": 1973,
+    "Year": 2013
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 22,
+    "Yield per colony": 60,
+    "Production": 1320,
+    "Stocks December 15": 66,
+    "Average price per pound": 2.01,
+    "Value of production": 2653,
+    "Year": 2013
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 330,
+    "Yield per colony": 33,
+    "Production": 10890,
+    "Stocks December 15": 2505,
+    "Average price per pound": 2.1,
+    "Value of production": 22869,
+    "Year": 2013
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 26,
+    "Yield per colony": 43,
+    "Production": 1118,
+    "Stocks December 15": 324,
+    "Average price per pound": 2.1,
+    "Value of production": 2348,
+    "Year": 2013
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 220,
+    "Yield per colony": 61,
+    "Production": 13420,
+    "Stocks December 15": 1074,
+    "Average price per pound": 2.04,
+    "Value of production": 27377,
+    "Year": 2013
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 67,
+    "Yield per colony": 50,
+    "Production": 3350,
+    "Stocks December 15": 637,
+    "Average price per pound": 2.24,
+    "Value of production": 7504,
+    "Year": 2013
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 13,
+    "Yield per colony": 83,
+    "Production": 1079,
+    "Stocks December 15": 65,
+    "Average price per pound": 1.98,
+    "Value of production": 2136,
+    "Year": 2013
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 83,
+    "Yield per colony": 32,
+    "Production": 2656,
+    "Stocks December 15": 1036,
+    "Average price per pound": 2.01,
+    "Value of production": 5339,
+    "Year": 2013
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 101,
+    "Average price per pound": 4.15,
+    "Value of production": 1394,
+    "Year": 2013
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 47,
+    "Production": 282,
+    "Stocks December 15": 82,
+    "Average price per pound": 2.67,
+    "Value of production": 753,
+    "Year": 2013
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 39,
+    "Yield per colony": 48,
+    "Production": 1872,
+    "Stocks December 15": 1217,
+    "Average price per pound": 2.54,
+    "Value of production": 4755,
+    "Year": 2013
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 6,
+    "Yield per colony": 46,
+    "Production": 276,
+    "Stocks December 15": 39,
+    "Average price per pound": 2.55,
+    "Value of production": 704,
+    "Year": 2013
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 3,
+    "Yield per colony": 41,
+    "Production": 123,
+    "Stocks December 15": 17,
+    "Average price per pound": 3.02,
+    "Value of production": 371,
+    "Year": 2013
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 50,
+    "Yield per colony": 98,
+    "Production": 4900,
+    "Stocks December 15": 490,
+    "Average price per pound": 1.83,
+    "Value of production": 8967,
+    "Year": 2013
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 7,
+    "Yield per colony": 43,
+    "Production": 301,
+    "Stocks December 15": 27,
+    "Average price per pound": 3.03,
+    "Value of production": 912,
+    "Year": 2013
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 85,
+    "Yield per colony": 55,
+    "Production": 4675,
+    "Stocks December 15": 982,
+    "Average price per pound": 2.13,
+    "Value of production": 9958,
+    "Year": 2013
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 130,
+    "Yield per colony": 58,
+    "Production": 7540,
+    "Stocks December 15": 1282,
+    "Average price per pound": 1.97,
+    "Value of production": 14854,
+    "Year": 2013
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 17,
+    "Yield per colony": 116,
+    "Production": 1972,
+    "Stocks December 15": 39,
+    "Average price per pound": 1.85,
+    "Value of production": 3648,
+    "Year": 2013
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 10,
+    "Yield per colony": 47,
+    "Production": 470,
+    "Stocks December 15": 85,
+    "Average price per pound": 2.53,
+    "Value of production": 1189,
+    "Year": 2013
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 159,
+    "Yield per colony": 94,
+    "Production": 14946,
+    "Stocks December 15": 5231,
+    "Average price per pound": 2.08,
+    "Value of production": 31088,
+    "Year": 2013
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 46,
+    "Yield per colony": 60,
+    "Production": 2760,
+    "Stocks December 15": 1628,
+    "Average price per pound": 2.06,
+    "Value of production": 5686,
+    "Year": 2013
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 11,
+    "Yield per colony": 44,
+    "Production": 484,
+    "Stocks December 15": 34,
+    "Average price per pound": 3.89,
+    "Value of production": 1883,
+    "Year": 2013
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 55,
+    "Yield per colony": 48,
+    "Production": 2640,
+    "Stocks December 15": 1030,
+    "Average price per pound": 1.99,
+    "Value of production": 5254,
+    "Year": 2013
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 10,
+    "Yield per colony": 38,
+    "Production": 380,
+    "Stocks December 15": 84,
+    "Average price per pound": 3.63,
+    "Value of production": 1379,
+    "Year": 2013
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 480,
+    "Yield per colony": 69,
+    "Production": 33120,
+    "Stocks December 15": 6955,
+    "Average price per pound": 2.04,
+    "Value of production": 67565,
+    "Year": 2013
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 17,
+    "Yield per colony": 45,
+    "Production": 765,
+    "Stocks December 15": 390,
+    "Average price per pound": 3.21,
+    "Value of production": 2456,
+    "Year": 2013
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 62,
+    "Yield per colony": 35,
+    "Production": 2170,
+    "Stocks December 15": 456,
+    "Average price per pound": 2.29,
+    "Value of production": 4969,
+    "Year": 2013
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 13,
+    "Yield per colony": 45,
+    "Production": 585,
+    "Stocks December 15": 257,
+    "Average price per pound": 2.98,
+    "Value of production": 1743,
+    "Year": 2013
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 265,
+    "Yield per colony": 56,
+    "Production": 14840,
+    "Stocks December 15": 6381,
+    "Average price per pound": 2.06,
+    "Value of production": 30570,
+    "Year": 2013
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 45,
+    "Production": 315,
+    "Stocks December 15": 63,
+    "Average price per pound": 3.58,
+    "Value of production": 1128,
+    "Year": 2013
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 106,
+    "Yield per colony": 59,
+    "Production": 6254,
+    "Stocks December 15": 1689,
+    "Average price per pound": 2.12,
+    "Value of production": 13258,
+    "Year": 2013
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 30,
+    "Yield per colony": 34,
+    "Production": 1020,
+    "Stocks December 15": 92,
+    "Average price per pound": 2.07,
+    "Value of production": 2111,
+    "Year": 2013
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 3,
+    "Yield per colony": 51,
+    "Production": 153,
+    "Stocks December 15": 46,
+    "Average price per pound": 3.31,
+    "Value of production": 506,
+    "Year": 2013
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 5,
+    "Yield per colony": 35,
+    "Production": 175,
+    "Stocks December 15": 42,
+    "Average price per pound": 4.23,
+    "Value of production": 740,
+    "Year": 2013
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 69,
+    "Yield per colony": 39,
+    "Production": 2691,
+    "Stocks December 15": 1023,
+    "Average price per pound": 2.21,
+    "Value of production": 5947,
+    "Year": 2013
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 46,
+    "Production": 276,
+    "Stocks December 15": 83,
+    "Average price per pound": 3.56,
+    "Value of production": 983,
+    "Year": 2013
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 59,
+    "Yield per colony": 60,
+    "Production": 3540,
+    "Stocks December 15": 1558,
+    "Average price per pound": 2.31,
+    "Value of production": 8177,
+    "Year": 2013
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 47,
+    "Yield per colony": 66,
+    "Production": 3102,
+    "Stocks December 15": 558,
+    "Average price per pound": 2.11,
+    "Value of production": 6545,
+    "Year": 2013
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 33,
+    "Yield per colony": 39,
+    "Production": 1295,
+    "Stocks December 15": 186,
+    "Average price per pound": 4.17,
+    "Value of production": 5400,
+    "Year": 2013
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2640,
+    "Yield per colony": 56.6,
+    "Production": 149499,
+    "Stocks December 15": 38160,
+    "Average price per pound": 2.121,
+    "Value of production": 317087,
+    "Year": 2013
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 53,
+    "Production": 371,
+    "Stocks December 15": 26,
+    "Average price per pound": 3.4,
+    "Value of production": 1261,
+    "Year": 2014
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 26,
+    "Yield per colony": 39,
+    "Production": 1014,
+    "Stocks December 15": 193,
+    "Average price per pound": 2.02,
+    "Value of production": 2048,
+    "Year": 2014
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 21,
+    "Yield per colony": 65,
+    "Production": 1365,
+    "Stocks December 15": 137,
+    "Average price per pound": 2,
+    "Value of production": 2730,
+    "Year": 2014
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 320,
+    "Yield per colony": 39,
+    "Production": 12480,
+    "Stocks December 15": 2995,
+    "Average price per pound": 2.03,
+    "Value of production": 25334,
+    "Year": 2014
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 27,
+    "Yield per colony": 37,
+    "Production": 999,
+    "Stocks December 15": 200,
+    "Average price per pound": 2,
+    "Value of production": 1998,
+    "Year": 2014
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 245,
+    "Yield per colony": 60,
+    "Production": 14700,
+    "Stocks December 15": 1029,
+    "Average price per pound": 2.08,
+    "Value of production": 30576,
+    "Year": 2014
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 73,
+    "Yield per colony": 62,
+    "Production": 4526,
+    "Stocks December 15": 362,
+    "Average price per pound": 2.19,
+    "Value of production": 9912,
+    "Year": 2014
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 15,
+    "Yield per colony": 93,
+    "Production": 1395,
+    "Stocks December 15": 140,
+    "Average price per pound": 2.28,
+    "Value of production": 3181,
+    "Year": 2014
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 100,
+    "Yield per colony": 34,
+    "Production": 3400,
+    "Stocks December 15": 850,
+    "Average price per pound": 2.03,
+    "Value of production": 6902,
+    "Year": 2014
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 49,
+    "Production": 392,
+    "Stocks December 15": 94,
+    "Average price per pound": 4.41,
+    "Value of production": 1729,
+    "Year": 2014
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 5,
+    "Yield per colony": 62,
+    "Production": 310,
+    "Stocks December 15": 115,
+    "Average price per pound": 3.24,
+    "Value of production": 1004,
+    "Year": 2014
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 43,
+    "Production": 1505,
+    "Stocks December 15": 933,
+    "Average price per pound": 2.51,
+    "Value of production": 3778,
+    "Year": 2014
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 75,
+    "Production": 525,
+    "Stocks December 15": 84,
+    "Average price per pound": 2.33,
+    "Value of production": 1223,
+    "Year": 2014
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 47,
+    "Production": 235,
+    "Stocks December 15": 56,
+    "Average price per pound": 3.93,
+    "Value of production": 924,
+    "Year": 2014
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 48,
+    "Yield per colony": 84,
+    "Production": 4032,
+    "Stocks December 15": 524,
+    "Average price per pound": 2.26,
+    "Value of production": 9112,
+    "Year": 2014
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 8,
+    "Yield per colony": 47,
+    "Production": 376,
+    "Stocks December 15": 41,
+    "Average price per pound": 5.36,
+    "Value of production": 2015,
+    "Year": 2014
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 91,
+    "Yield per colony": 63,
+    "Production": 5733,
+    "Stocks December 15": 1835,
+    "Average price per pound": 2.5,
+    "Value of production": 14333,
+    "Year": 2014
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 132,
+    "Yield per colony": 60,
+    "Production": 7920,
+    "Stocks December 15": 1426,
+    "Average price per pound": 2.06,
+    "Value of production": 16315,
+    "Year": 2014
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 20,
+    "Yield per colony": 112,
+    "Production": 2240,
+    "Stocks December 15": 45,
+    "Average price per pound": 2.01,
+    "Value of production": 4502,
+    "Year": 2014
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 12,
+    "Yield per colony": 47,
+    "Production": 564,
+    "Stocks December 15": 96,
+    "Average price per pound": 3.57,
+    "Value of production": 2013,
+    "Year": 2014
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 162,
+    "Yield per colony": 88,
+    "Production": 14256,
+    "Stocks December 15": 5132,
+    "Average price per pound": 2.05,
+    "Value of production": 29225,
+    "Year": 2014
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 50,
+    "Yield per colony": 75,
+    "Production": 3750,
+    "Stocks December 15": 1688,
+    "Average price per pound": 2.1,
+    "Value of production": 7875,
+    "Year": 2014
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 12,
+    "Yield per colony": 30,
+    "Production": 360,
+    "Stocks December 15": 119,
+    "Average price per pound": 2.98,
+    "Value of production": 1073,
+    "Year": 2014
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 60,
+    "Yield per colony": 55,
+    "Production": 3300,
+    "Stocks December 15": 1518,
+    "Average price per pound": 2.72,
+    "Value of production": 8976,
+    "Year": 2014
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 12,
+    "Yield per colony": 43,
+    "Production": 516,
+    "Stocks December 15": 88,
+    "Average price per pound": 3.47,
+    "Value of production": 1791,
+    "Year": 2014
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 490,
+    "Yield per colony": 86,
+    "Production": 42140,
+    "Stocks December 15": 9271,
+    "Average price per pound": 2,
+    "Value of production": 84280,
+    "Year": 2014
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 61,
+    "Production": 915,
+    "Stocks December 15": 256,
+    "Average price per pound": 3.52,
+    "Value of production": 3221,
+    "Year": 2014
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 71,
+    "Yield per colony": 40,
+    "Production": 2840,
+    "Stocks December 15": 767,
+    "Average price per pound": 2.19,
+    "Value of production": 6220,
+    "Year": 2014
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 17,
+    "Yield per colony": 46,
+    "Production": 782,
+    "Stocks December 15": 203,
+    "Average price per pound": 2.75,
+    "Value of production": 2151,
+    "Year": 2014
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 9,
+    "Yield per colony": 54,
+    "Production": 486,
+    "Stocks December 15": 19,
+    "Average price per pound": 3.83,
+    "Value of production": 1861,
+    "Year": 2014
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 280,
+    "Yield per colony": 87,
+    "Production": 24360,
+    "Stocks December 15": 5846,
+    "Average price per pound": 2.09,
+    "Value of production": 50912,
+    "Year": 2014
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 63,
+    "Production": 441,
+    "Stocks December 15": 88,
+    "Average price per pound": 3.23,
+    "Value of production": 1424,
+    "Year": 2014
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 116,
+    "Yield per colony": 78,
+    "Production": 9048,
+    "Stocks December 15": 2081,
+    "Average price per pound": 2.23,
+    "Value of production": 20177,
+    "Year": 2014
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 29,
+    "Yield per colony": 28,
+    "Production": 812,
+    "Stocks December 15": 130,
+    "Average price per pound": 2.13,
+    "Value of production": 1730,
+    "Year": 2014
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 3,
+    "Yield per colony": 58,
+    "Production": 174,
+    "Stocks December 15": 61,
+    "Average price per pound": 5.03,
+    "Value of production": 875,
+    "Year": 2014
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 41,
+    "Production": 246,
+    "Stocks December 15": 57,
+    "Average price per pound": 5.07,
+    "Value of production": 1247,
+    "Year": 2014
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 68,
+    "Yield per colony": 44,
+    "Production": 2992,
+    "Stocks December 15": 1167,
+    "Average price per pound": 2.48,
+    "Value of production": 7420,
+    "Year": 2014
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 31,
+    "Production": 186,
+    "Stocks December 15": 33,
+    "Average price per pound": 4.04,
+    "Value of production": 751,
+    "Year": 2014
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 53,
+    "Yield per colony": 54,
+    "Production": 2862,
+    "Stocks December 15": 1030,
+    "Average price per pound": 2.32,
+    "Value of production": 6640,
+    "Year": 2014
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 38,
+    "Yield per colony": 61,
+    "Production": 2318,
+    "Stocks December 15": 255,
+    "Average price per pound": 2.06,
+    "Value of production": 4775,
+    "Year": 2014
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 31,
+    "Yield per colony": 45,
+    "Production": 1404,
+    "Stocks December 15": 202,
+    "Average price per pound": 3.58,
+    "Value of production": 5026,
+    "Year": 2014
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2740,
+    "Yield per colony": 65.1,
+    "Production": 178270,
+    "Stocks December 15": 41192,
+    "Average price per pound": 2.161,
+    "Value of production": 385241,
+    "Year": 2014
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 47,
+    "Production": 329,
+    "Stocks December 15": 13,
+    "Average price per pound": 3.83,
+    "Value of production": 1260,
+    "Year": 2015
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 26,
+    "Yield per colony": 49,
+    "Production": 1274,
+    "Stocks December 15": 306,
+    "Average price per pound": 2.17,
+    "Value of production": 2765,
+    "Year": 2015
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 24,
+    "Yield per colony": 72,
+    "Production": 1728,
+    "Stocks December 15": 121,
+    "Average price per pound": 2.02,
+    "Value of production": 3491,
+    "Year": 2015
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 275,
+    "Yield per colony": 30,
+    "Production": 8250,
+    "Stocks December 15": 1485,
+    "Average price per pound": 2.04,
+    "Value of production": 16830,
+    "Year": 2015
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 29,
+    "Yield per colony": 51,
+    "Production": 1479,
+    "Stocks December 15": 399,
+    "Average price per pound": 2.18,
+    "Value of production": 3224,
+    "Year": 2015
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 220,
+    "Yield per colony": 54,
+    "Production": 11880,
+    "Stocks December 15": 832,
+    "Average price per pound": 1.97,
+    "Value of production": 23404,
+    "Year": 2015
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 69,
+    "Yield per colony": 40,
+    "Production": 2760,
+    "Stocks December 15": 221,
+    "Average price per pound": 2.42,
+    "Value of production": 6679,
+    "Year": 2015
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 14,
+    "Yield per colony": 102,
+    "Production": 1428,
+    "Stocks December 15": 71,
+    "Average price per pound": 1.95,
+    "Value of production": 2785,
+    "Year": 2015
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 89,
+    "Yield per colony": 32,
+    "Production": 2848,
+    "Stocks December 15": 1082,
+    "Average price per pound": 1.92,
+    "Value of production": 5468,
+    "Year": 2015
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 8,
+    "Yield per colony": 51,
+    "Production": 408,
+    "Stocks December 15": 155,
+    "Average price per pound": 4.32,
+    "Value of production": 1763,
+    "Year": 2015
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 53,
+    "Production": 318,
+    "Stocks December 15": 165,
+    "Average price per pound": 3.38,
+    "Value of production": 1075,
+    "Year": 2015
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 36,
+    "Yield per colony": 50,
+    "Production": 1800,
+    "Stocks December 15": 990,
+    "Average price per pound": 2.33,
+    "Value of production": 4194,
+    "Year": 2015
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 8,
+    "Yield per colony": 36,
+    "Production": 288,
+    "Stocks December 15": 107,
+    "Average price per pound": 3.52,
+    "Value of production": 1014,
+    "Year": 2015
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 46,
+    "Production": 230,
+    "Stocks December 15": 55,
+    "Average price per pound": 3.86,
+    "Value of production": 888,
+    "Year": 2015
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 44,
+    "Yield per colony": 99,
+    "Production": 4356,
+    "Stocks December 15": 348,
+    "Average price per pound": 1.93,
+    "Value of production": 8407,
+    "Year": 2015
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 10,
+    "Yield per colony": 47,
+    "Production": 470,
+    "Stocks December 15": 47,
+    "Average price per pound": 5.51,
+    "Value of production": 2590,
+    "Year": 2015
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 90,
+    "Yield per colony": 58,
+    "Production": 5220,
+    "Stocks December 15": 1984,
+    "Average price per pound": 2.43,
+    "Value of production": 12685,
+    "Year": 2015
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 122,
+    "Yield per colony": 68,
+    "Production": 8296,
+    "Stocks December 15": 2157,
+    "Average price per pound": 1.83,
+    "Value of production": 15182,
+    "Year": 2015
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 15,
+    "Yield per colony": 83,
+    "Production": 1245,
+    "Stocks December 15": 87,
+    "Average price per pound": 2.64,
+    "Value of production": 3287,
+    "Year": 2015
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 10,
+    "Yield per colony": 52,
+    "Production": 520,
+    "Stocks December 15": 52,
+    "Average price per pound": 3.5,
+    "Value of production": 1820,
+    "Year": 2015
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 146,
+    "Yield per colony": 83,
+    "Production": 12118,
+    "Stocks December 15": 3757,
+    "Average price per pound": 1.94,
+    "Value of production": 23509,
+    "Year": 2015
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 57,
+    "Yield per colony": 48,
+    "Production": 2736,
+    "Stocks December 15": 1450,
+    "Average price per pound": 2.02,
+    "Value of production": 5527,
+    "Year": 2015
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 12,
+    "Yield per colony": 27,
+    "Production": 324,
+    "Stocks December 15": 207,
+    "Average price per pound": 4.2,
+    "Value of production": 1361,
+    "Year": 2015
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 58,
+    "Yield per colony": 62,
+    "Production": 3596,
+    "Stocks December 15": 899,
+    "Average price per pound": 2.94,
+    "Value of production": 10572,
+    "Year": 2015
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 12,
+    "Yield per colony": 45,
+    "Production": 540,
+    "Stocks December 15": 103,
+    "Average price per pound": 4.52,
+    "Value of production": 2441,
+    "Year": 2015
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 490,
+    "Yield per colony": 74,
+    "Production": 36260,
+    "Stocks December 15": 9428,
+    "Average price per pound": 1.8,
+    "Value of production": 65268,
+    "Year": 2015
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 17,
+    "Yield per colony": 50,
+    "Production": 850,
+    "Stocks December 15": 357,
+    "Average price per pound": 4.08,
+    "Value of production": 3468,
+    "Year": 2015
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 71,
+    "Yield per colony": 38,
+    "Production": 2698,
+    "Stocks December 15": 809,
+    "Average price per pound": 2.52,
+    "Value of production": 6799,
+    "Year": 2015
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 17,
+    "Yield per colony": 53,
+    "Production": 901,
+    "Stocks December 15": 225,
+    "Average price per pound": 3.63,
+    "Value of production": 3271,
+    "Year": 2015
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 14,
+    "Yield per colony": 67,
+    "Production": 938,
+    "Stocks December 15": 38,
+    "Average price per pound": 4.09,
+    "Value of production": 3836,
+    "Year": 2015
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 290,
+    "Yield per colony": 66,
+    "Production": 19140,
+    "Stocks December 15": 9379,
+    "Average price per pound": 1.79,
+    "Value of production": 34261,
+    "Year": 2015
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 59,
+    "Production": 413,
+    "Stocks December 15": 78,
+    "Average price per pound": 4.07,
+    "Value of production": 1681,
+    "Year": 2015
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 126,
+    "Yield per colony": 66,
+    "Production": 8316,
+    "Stocks December 15": 1164,
+    "Average price per pound": 2.09,
+    "Value of production": 17380,
+    "Year": 2015
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 27,
+    "Yield per colony": 42,
+    "Production": 1134,
+    "Stocks December 15": 147,
+    "Average price per pound": 1.93,
+    "Value of production": 2189,
+    "Year": 2015
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 5,
+    "Yield per colony": 52,
+    "Production": 260,
+    "Stocks December 15": 62,
+    "Average price per pound": 4.23,
+    "Value of production": 1100,
+    "Year": 2015
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 6,
+    "Yield per colony": 38,
+    "Production": 228,
+    "Stocks December 15": 50,
+    "Average price per pound": 5.67,
+    "Value of production": 1293,
+    "Year": 2015
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 73,
+    "Yield per colony": 44,
+    "Production": 3212,
+    "Stocks December 15": 1221,
+    "Average price per pound": 1.64,
+    "Value of production": 5268,
+    "Year": 2015
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 35,
+    "Production": 175,
+    "Stocks December 15": 32,
+    "Average price per pound": 4.44,
+    "Value of production": 777,
+    "Year": 2015
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 52,
+    "Yield per colony": 67,
+    "Production": 3484,
+    "Stocks December 15": 1603,
+    "Average price per pound": 2.41,
+    "Value of production": 8396,
+    "Year": 2015
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 38,
+    "Yield per colony": 77,
+    "Production": 2926,
+    "Stocks December 15": 146,
+    "Average price per pound": 1.9,
+    "Value of production": 5559,
+    "Year": 2015
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 30,
+    "Yield per colony": 39,
+    "Production": 1168,
+    "Stocks December 15": 371,
+    "Average price per pound": 5.03,
+    "Value of production": 5875,
+    "Year": 2015
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2660,
+    "Yield per colony": 58.9,
+    "Production": 156544,
+    "Stocks December 15": 42203,
+    "Average price per pound": 2.09,
+    "Value of production": 327177,
+    "Year": 2015
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 52,
+    "Production": 364,
+    "Stocks December 15": 33,
+    "Average price per pound": 3.37,
+    "Value of production": 1227,
+    "Year": 2016
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 27,
+    "Yield per colony": 46,
+    "Production": 1242,
+    "Stocks December 15": 261,
+    "Average price per pound": 1.99,
+    "Value of production": 2472,
+    "Year": 2016
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 24,
+    "Yield per colony": 69,
+    "Production": 1656,
+    "Stocks December 15": 99,
+    "Average price per pound": 1.84,
+    "Value of production": 3047,
+    "Year": 2016
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 310,
+    "Yield per colony": 36,
+    "Production": 11160,
+    "Stocks December 15": 2009,
+    "Average price per pound": 2,
+    "Value of production": 22320,
+    "Year": 2016
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 32,
+    "Yield per colony": 40,
+    "Production": 1280,
+    "Stocks December 15": 282,
+    "Average price per pound": 2.17,
+    "Value of production": 2778,
+    "Year": 2016
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 215,
+    "Yield per colony": 50,
+    "Production": 10750,
+    "Stocks December 15": 538,
+    "Average price per pound": 2.44,
+    "Value of production": 26230,
+    "Year": 2016
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 96,
+    "Yield per colony": 39,
+    "Production": 3744,
+    "Stocks December 15": 899,
+    "Average price per pound": 2.69,
+    "Value of production": 10071,
+    "Year": 2016
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 16,
+    "Yield per colony": 113,
+    "Production": 1808,
+    "Stocks December 15": 127,
+    "Average price per pound": 2.31,
+    "Value of production": 4176,
+    "Year": 2016
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 97,
+    "Yield per colony": 34,
+    "Production": 3298,
+    "Stocks December 15": 1253,
+    "Average price per pound": 1.72,
+    "Value of production": 5673,
+    "Year": 2016
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 10,
+    "Yield per colony": 48,
+    "Production": 480,
+    "Stocks December 15": 77,
+    "Average price per pound": 5.39,
+    "Value of production": 2587,
+    "Year": 2016
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 62,
+    "Production": 434,
+    "Stocks December 15": 208,
+    "Average price per pound": 3.36,
+    "Value of production": 1458,
+    "Year": 2016
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 37,
+    "Yield per colony": 48,
+    "Production": 1776,
+    "Stocks December 15": 746,
+    "Average price per pound": 2.07,
+    "Value of production": 3676,
+    "Year": 2016
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 54,
+    "Average price per pound": 2.97,
+    "Value of production": 998,
+    "Year": 2016
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 46,
+    "Production": 230,
+    "Stocks December 15": 48,
+    "Average price per pound": 4.02,
+    "Value of production": 925,
+    "Year": 2016
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 50,
+    "Yield per colony": 86,
+    "Production": 4300,
+    "Stocks December 15": 301,
+    "Average price per pound": 1.93,
+    "Value of production": 8299,
+    "Year": 2016
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 12,
+    "Yield per colony": 34,
+    "Production": 408,
+    "Stocks December 15": 65,
+    "Average price per pound": 3.21,
+    "Value of production": 1310,
+    "Year": 2016
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 89,
+    "Yield per colony": 60,
+    "Production": 5340,
+    "Stocks December 15": 1709,
+    "Average price per pound": 2.25,
+    "Value of production": 12015,
+    "Year": 2016
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 124,
+    "Yield per colony": 59,
+    "Production": 7316,
+    "Stocks December 15": 1390,
+    "Average price per pound": 1.64,
+    "Value of production": 11998,
+    "Year": 2016
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 19,
+    "Yield per colony": 85,
+    "Production": 1615,
+    "Stocks December 15": 113,
+    "Average price per pound": 1.74,
+    "Value of production": 2810,
+    "Year": 2016
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 8,
+    "Yield per colony": 62,
+    "Production": 496,
+    "Stocks December 15": 30,
+    "Average price per pound": 2.18,
+    "Value of production": 1081,
+    "Year": 2016
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 159,
+    "Yield per colony": 77,
+    "Production": 12243,
+    "Stocks December 15": 3183,
+    "Average price per pound": 1.75,
+    "Value of production": 21425,
+    "Year": 2016
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 48,
+    "Yield per colony": 46,
+    "Production": 2208,
+    "Stocks December 15": 640,
+    "Average price per pound": 1.88,
+    "Value of production": 4151,
+    "Year": 2016
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 12,
+    "Yield per colony": 27,
+    "Production": 324,
+    "Stocks December 15": 198,
+    "Average price per pound": 6.69,
+    "Value of production": 2168,
+    "Year": 2016
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 64,
+    "Yield per colony": 57,
+    "Production": 3648,
+    "Stocks December 15": 1167,
+    "Average price per pound": 3.2,
+    "Value of production": 11674,
+    "Year": 2016
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 12,
+    "Yield per colony": 37,
+    "Production": 444,
+    "Stocks December 15": 89,
+    "Average price per pound": 4.61,
+    "Value of production": 2047,
+    "Year": 2016
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 485,
+    "Yield per colony": 78,
+    "Production": 37830,
+    "Stocks December 15": 6809,
+    "Average price per pound": 1.73,
+    "Value of production": 65446,
+    "Year": 2016
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 79,
+    "Production": 1185,
+    "Stocks December 15": 664,
+    "Average price per pound": 3.84,
+    "Value of production": 4550,
+    "Year": 2016
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 74,
+    "Yield per colony": 35,
+    "Production": 2590,
+    "Stocks December 15": 622,
+    "Average price per pound": 2.06,
+    "Value of production": 5335,
+    "Year": 2016
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 19,
+    "Yield per colony": 50,
+    "Production": 950,
+    "Stocks December 15": 266,
+    "Average price per pound": 3.15,
+    "Value of production": 2993,
+    "Year": 2016
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 16,
+    "Yield per colony": 45,
+    "Production": 720,
+    "Stocks December 15": 36,
+    "Average price per pound": 4.5,
+    "Value of production": 3240,
+    "Year": 2016
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 280,
+    "Yield per colony": 71,
+    "Production": 19880,
+    "Stocks December 15": 12127,
+    "Average price per pound": 1.74,
+    "Value of production": 34591,
+    "Year": 2016
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 6,
+    "Yield per colony": 55,
+    "Production": 330,
+    "Stocks December 15": 69,
+    "Average price per pound": 4.78,
+    "Value of production": 1577,
+    "Year": 2016
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 133,
+    "Yield per colony": 70,
+    "Production": 9310,
+    "Stocks December 15": 2607,
+    "Average price per pound": 1.96,
+    "Value of production": 18248,
+    "Year": 2016
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 31,
+    "Yield per colony": 32,
+    "Production": 992,
+    "Stocks December 15": 169,
+    "Average price per pound": 1.91,
+    "Value of production": 1895,
+    "Year": 2016
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 6,
+    "Yield per colony": 52,
+    "Production": 312,
+    "Stocks December 15": 69,
+    "Average price per pound": 2.82,
+    "Value of production": 880,
+    "Year": 2016
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 5,
+    "Yield per colony": 38,
+    "Production": 190,
+    "Stocks December 15": 30,
+    "Average price per pound": 5.82,
+    "Value of production": 1106,
+    "Year": 2016
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 84,
+    "Yield per colony": 35,
+    "Production": 2940,
+    "Stocks December 15": 412,
+    "Average price per pound": 1.88,
+    "Value of production": 5527,
+    "Year": 2016
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 5,
+    "Yield per colony": 32,
+    "Production": 160,
+    "Stocks December 15": 43,
+    "Average price per pound": 3.73,
+    "Value of production": 597,
+    "Year": 2016
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 54,
+    "Yield per colony": 62,
+    "Production": 3348,
+    "Stocks December 15": 1205,
+    "Average price per pound": 2.44,
+    "Value of production": 8169,
+    "Year": 2016
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 40,
+    "Yield per colony": 68,
+    "Production": 2720,
+    "Stocks December 15": 190,
+    "Average price per pound": 1.76,
+    "Value of production": 4787,
+    "Year": 2016
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 35,
+    "Yield per colony": 44,
+    "Production": 1525,
+    "Stocks December 15": 416,
+    "Average price per pound": 4.26,
+    "Value of production": 6497,
+    "Year": 2016
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2775,
+    "Yield per colony": 58.3,
+    "Production": 161882,
+    "Stocks December 15": 41253,
+    "Average price per pound": 2.075,
+    "Value of production": 335905,
+    "Year": 2016
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 45,
+    "Production": 315,
+    "Stocks December 15": 22,
+    "Average price per pound": 2.77,
+    "Value of production": 873,
+    "Year": 2017
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 22,
+    "Yield per colony": 40,
+    "Production": 880,
+    "Stocks December 15": 97,
+    "Average price per pound": 1.96,
+    "Value of production": 1725,
+    "Year": 2017
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 29,
+    "Yield per colony": 77,
+    "Production": 2233,
+    "Stocks December 15": 223,
+    "Average price per pound": 1.91,
+    "Value of production": 4265,
+    "Year": 2017
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 335,
+    "Yield per colony": 41,
+    "Production": 13735,
+    "Stocks December 15": 2198,
+    "Average price per pound": 2.09,
+    "Value of production": 28706,
+    "Year": 2017
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 33,
+    "Yield per colony": 43,
+    "Production": 1419,
+    "Stocks December 15": 284,
+    "Average price per pound": 2.06,
+    "Value of production": 2923,
+    "Year": 2017
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 205,
+    "Yield per colony": 43,
+    "Production": 8815,
+    "Stocks December 15": 529,
+    "Average price per pound": 2.4,
+    "Value of production": 21156,
+    "Year": 2017
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 99,
+    "Yield per colony": 32,
+    "Production": 3168,
+    "Stocks December 15": 190,
+    "Average price per pound": 2.96,
+    "Value of production": 9377,
+    "Year": 2017
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 12,
+    "Yield per colony": 131,
+    "Production": 1572,
+    "Stocks December 15": 16,
+    "Average price per pound": 1.51,
+    "Value of production": 2374,
+    "Year": 2017
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 95,
+    "Yield per colony": 44,
+    "Production": 4180,
+    "Stocks December 15": 1045,
+    "Average price per pound": 1.79,
+    "Value of production": 7482,
+    "Year": 2017
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 11,
+    "Yield per colony": 46,
+    "Production": 506,
+    "Stocks December 15": 167,
+    "Average price per pound": 4.76,
+    "Value of production": 2409,
+    "Year": 2017
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 128,
+    "Average price per pound": 3.94,
+    "Value of production": 1324,
+    "Year": 2017
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 35,
+    "Yield per colony": 58,
+    "Production": 2030,
+    "Stocks December 15": 1035,
+    "Average price per pound": 2.22,
+    "Value of production": 4507,
+    "Year": 2017
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 79,
+    "Production": 553,
+    "Stocks December 15": 260,
+    "Average price per pound": 4.18,
+    "Value of production": 2312,
+    "Year": 2017
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 5,
+    "Yield per colony": 38,
+    "Production": 190,
+    "Stocks December 15": 42,
+    "Average price per pound": 4.08,
+    "Value of production": 775,
+    "Year": 2017
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 43,
+    "Yield per colony": 81,
+    "Production": 3483,
+    "Stocks December 15": 279,
+    "Average price per pound": 1.88,
+    "Value of production": 6548,
+    "Year": 2017
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 12,
+    "Yield per colony": 33,
+    "Production": 396,
+    "Stocks December 15": 51,
+    "Average price per pound": 5.45,
+    "Value of production": 2158,
+    "Year": 2017
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 87,
+    "Yield per colony": 45,
+    "Production": 3915,
+    "Stocks December 15": 822,
+    "Average price per pound": 2.41,
+    "Value of production": 9435,
+    "Year": 2017
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 126,
+    "Yield per colony": 62,
+    "Production": 7812,
+    "Stocks December 15": 1016,
+    "Average price per pound": 1.86,
+    "Value of production": 14530,
+    "Year": 2017
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 13,
+    "Yield per colony": 80,
+    "Production": 1040,
+    "Stocks December 15": 83,
+    "Average price per pound": 1.81,
+    "Value of production": 1882,
+    "Year": 2017
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 8,
+    "Yield per colony": 65,
+    "Production": 520,
+    "Stocks December 15": 57,
+    "Average price per pound": 3.53,
+    "Value of production": 1836,
+    "Year": 2017
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 145,
+    "Yield per colony": 72,
+    "Production": 10440,
+    "Stocks December 15": 2506,
+    "Average price per pound": 2.3,
+    "Value of production": 24012,
+    "Year": 2017
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 42,
+    "Yield per colony": 63,
+    "Production": 2646,
+    "Stocks December 15": 423,
+    "Average price per pound": 1.99,
+    "Value of production": 5266,
+    "Year": 2017
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 13,
+    "Yield per colony": 28,
+    "Production": 364,
+    "Stocks December 15": 167,
+    "Average price per pound": 7.86,
+    "Value of production": 2861,
+    "Year": 2017
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 57,
+    "Yield per colony": 56,
+    "Production": 3192,
+    "Stocks December 15": 766,
+    "Average price per pound": 3.01,
+    "Value of production": 9608,
+    "Year": 2017
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 11,
+    "Yield per colony": 41,
+    "Production": 451,
+    "Stocks December 15": 99,
+    "Average price per pound": 4.34,
+    "Value of production": 1957,
+    "Year": 2017
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 455,
+    "Yield per colony": 74,
+    "Production": 33670,
+    "Stocks December 15": 4377,
+    "Average price per pound": 1.89,
+    "Value of production": 63636,
+    "Year": 2017
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 73,
+    "Production": 1095,
+    "Stocks December 15": 657,
+    "Average price per pound": 3.12,
+    "Value of production": 3416,
+    "Year": 2017
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 78,
+    "Yield per colony": 40,
+    "Production": 3120,
+    "Stocks December 15": 998,
+    "Average price per pound": 1.89,
+    "Value of production": 5897,
+    "Year": 2017
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 16,
+    "Yield per colony": 46,
+    "Production": 736,
+    "Stocks December 15": 177,
+    "Average price per pound": 3.4,
+    "Value of production": 2502,
+    "Year": 2017
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 16,
+    "Yield per colony": 34,
+    "Production": 544,
+    "Stocks December 15": 27,
+    "Average price per pound": 3.06,
+    "Value of production": 1665,
+    "Year": 2017
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 255,
+    "Yield per colony": 57,
+    "Production": 14535,
+    "Stocks December 15": 6541,
+    "Average price per pound": 1.91,
+    "Value of production": 27762,
+    "Year": 2017
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 41,
+    "Production": 287,
+    "Stocks December 15": 75,
+    "Average price per pound": 4.68,
+    "Value of production": 1343,
+    "Year": 2017
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 120,
+    "Yield per colony": 66,
+    "Production": 7920,
+    "Stocks December 15": 2297,
+    "Average price per pound": 2.11,
+    "Value of production": 16711,
+    "Year": 2017
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 27,
+    "Yield per colony": 31,
+    "Production": 837,
+    "Stocks December 15": 67,
+    "Average price per pound": 2.06,
+    "Value of production": 1724,
+    "Year": 2017
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 7,
+    "Yield per colony": 45,
+    "Production": 315,
+    "Stocks December 15": 120,
+    "Average price per pound": 4.17,
+    "Value of production": 1314,
+    "Year": 2017
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 5,
+    "Yield per colony": 35,
+    "Production": 175,
+    "Stocks December 15": 39,
+    "Average price per pound": 5.73,
+    "Value of production": 1003,
+    "Year": 2017
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 77,
+    "Yield per colony": 45,
+    "Production": 3465,
+    "Stocks December 15": 1594,
+    "Average price per pound": 2.25,
+    "Value of production": 7796,
+    "Year": 2017
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 40,
+    "Production": 240,
+    "Stocks December 15": 50,
+    "Average price per pound": 3.85,
+    "Value of production": 924,
+    "Year": 2017
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 53,
+    "Yield per colony": 56,
+    "Production": 2968,
+    "Stocks December 15": 683,
+    "Average price per pound": 2.77,
+    "Value of production": 8221,
+    "Year": 2017
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 53,
+    "Production": 2067,
+    "Stocks December 15": 186,
+    "Average price per pound": 1.59,
+    "Value of production": 3287,
+    "Year": 2017
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 34,
+    "Yield per colony": 43,
+    "Production": 1473,
+    "Stocks December 15": 184,
+    "Average price per pound": 4.11,
+    "Value of production": 6054,
+    "Year": 2017
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2669,
+    "Yield per colony": 55.3,
+    "Production": 147638,
+    "Stocks December 15": 30577,
+    "Average price per pound": 2.156,
+    "Value of production": 318308,
+    "Year": 2017
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 6,
+    "Yield per colony": 45,
+    "Production": 270,
+    "Stocks December 15": 14,
+    "Average price per pound": 3.57,
+    "Value of production": 964,
+    "Year": 2018
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 24,
+    "Yield per colony": 38,
+    "Production": 912,
+    "Stocks December 15": 109,
+    "Average price per pound": 2.82,
+    "Value of production": 2572,
+    "Year": 2018
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 28,
+    "Yield per colony": 50,
+    "Production": 1400,
+    "Stocks December 15": 84,
+    "Average price per pound": 1.87,
+    "Value of production": 2618,
+    "Year": 2018
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 335,
+    "Yield per colony": 41,
+    "Production": 13735,
+    "Stocks December 15": 3022,
+    "Average price per pound": 2.06,
+    "Value of production": 28294,
+    "Year": 2018
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 31,
+    "Yield per colony": 48,
+    "Production": 1488,
+    "Stocks December 15": 283,
+    "Average price per pound": 2.02,
+    "Value of production": 3006,
+    "Year": 2018
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 215,
+    "Yield per colony": 49,
+    "Production": 10535,
+    "Stocks December 15": 737,
+    "Average price per pound": 2.4,
+    "Value of production": 25284,
+    "Year": 2018
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 98,
+    "Yield per colony": 34,
+    "Production": 3332,
+    "Stocks December 15": 200,
+    "Average price per pound": 2.79,
+    "Value of production": 9296,
+    "Year": 2018
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 17,
+    "Yield per colony": 103,
+    "Production": 1751,
+    "Stocks December 15": 18,
+    "Average price per pound": 1.83,
+    "Value of production": 3204,
+    "Year": 2018
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 96,
+    "Yield per colony": 31,
+    "Production": 2976,
+    "Stocks December 15": 655,
+    "Average price per pound": 1.96,
+    "Value of production": 5833,
+    "Year": 2018
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 11,
+    "Yield per colony": 41,
+    "Production": 451,
+    "Stocks December 15": 108,
+    "Average price per pound": 5.01,
+    "Value of production": 2260,
+    "Year": 2018
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 46,
+    "Production": 322,
+    "Stocks December 15": 106,
+    "Average price per pound": 3.75,
+    "Value of production": 1208,
+    "Year": 2018
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 38,
+    "Yield per colony": 49,
+    "Production": 1862,
+    "Stocks December 15": 1005,
+    "Average price per pound": 2.35,
+    "Value of production": 4376,
+    "Year": 2018
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 5,
+    "Yield per colony": 73,
+    "Production": 365,
+    "Stocks December 15": 95,
+    "Average price per pound": 3,
+    "Value of production": 1095,
+    "Year": 2018
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 4,
+    "Yield per colony": 41,
+    "Production": 164,
+    "Stocks December 15": 34,
+    "Average price per pound": 5.42,
+    "Value of production": 889,
+    "Year": 2018
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 45,
+    "Yield per colony": 83,
+    "Production": 3735,
+    "Stocks December 15": 261,
+    "Average price per pound": 1.9,
+    "Value of production": 7097,
+    "Year": 2018
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 12,
+    "Yield per colony": 32,
+    "Production": 384,
+    "Stocks December 15": 92,
+    "Average price per pound": 2.68,
+    "Value of production": 1029,
+    "Year": 2018
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 92,
+    "Yield per colony": 44,
+    "Production": 4048,
+    "Stocks December 15": 729,
+    "Average price per pound": 2.37,
+    "Value of production": 9594,
+    "Year": 2018
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 119,
+    "Yield per colony": 61,
+    "Production": 7259,
+    "Stocks December 15": 1161,
+    "Average price per pound": 1.88,
+    "Value of production": 13647,
+    "Year": 2018
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 20,
+    "Yield per colony": 87,
+    "Production": 1740,
+    "Stocks December 15": 70,
+    "Average price per pound": 2.05,
+    "Value of production": 3567,
+    "Year": 2018
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 9,
+    "Yield per colony": 45,
+    "Production": 405,
+    "Stocks December 15": 36,
+    "Average price per pound": 2.58,
+    "Value of production": 1045,
+    "Year": 2018
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 160,
+    "Yield per colony": 92,
+    "Production": 14720,
+    "Stocks December 15": 3680,
+    "Average price per pound": 1.92,
+    "Value of production": 28262,
+    "Year": 2018
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 40,
+    "Yield per colony": 59,
+    "Production": 2360,
+    "Stocks December 15": 850,
+    "Average price per pound": 1.99,
+    "Value of production": 4696,
+    "Year": 2018
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 13,
+    "Yield per colony": 31,
+    "Production": 403,
+    "Stocks December 15": 165,
+    "Average price per pound": 7.35,
+    "Value of production": 2962,
+    "Year": 2018
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 56,
+    "Yield per colony": 48,
+    "Production": 2688,
+    "Stocks December 15": 833,
+    "Average price per pound": 3.34,
+    "Value of production": 8978,
+    "Year": 2018
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 10,
+    "Yield per colony": 33,
+    "Production": 330,
+    "Stocks December 15": 63,
+    "Average price per pound": 5.55,
+    "Value of production": 1832,
+    "Year": 2018
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 530,
+    "Yield per colony": 72,
+    "Production": 38160,
+    "Stocks December 15": 4579,
+    "Average price per pound": 1.88,
+    "Value of production": 71741,
+    "Year": 2018
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 14,
+    "Yield per colony": 73,
+    "Production": 1022,
+    "Stocks December 15": 491,
+    "Average price per pound": 3.61,
+    "Value of production": 3689,
+    "Year": 2018
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 93,
+    "Yield per colony": 35,
+    "Production": 3255,
+    "Stocks December 15": 1009,
+    "Average price per pound": 2.22,
+    "Value of production": 7226,
+    "Year": 2018
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 19,
+    "Yield per colony": 44,
+    "Production": 836,
+    "Stocks December 15": 309,
+    "Average price per pound": 3.73,
+    "Value of production": 3118,
+    "Year": 2018
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 16,
+    "Yield per colony": 48,
+    "Production": 768,
+    "Stocks December 15": 15,
+    "Average price per pound": 3.04,
+    "Value of production": 2335,
+    "Year": 2018
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 255,
+    "Yield per colony": 47,
+    "Production": 11985,
+    "Stocks December 15": 5154,
+    "Average price per pound": 1.98,
+    "Value of production": 23730,
+    "Year": 2018
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 7,
+    "Yield per colony": 46,
+    "Production": 322,
+    "Stocks December 15": 84,
+    "Average price per pound": 3.99,
+    "Value of production": 1285,
+    "Year": 2018
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 132,
+    "Yield per colony": 56,
+    "Production": 7392,
+    "Stocks December 15": 1035,
+    "Average price per pound": 2.06,
+    "Value of production": 15228,
+    "Year": 2018
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 26,
+    "Yield per colony": 41,
+    "Production": 1066,
+    "Stocks December 15": 75,
+    "Average price per pound": 2.09,
+    "Value of production": 2228,
+    "Year": 2018
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 7,
+    "Yield per colony": 48,
+    "Production": 336,
+    "Stocks December 15": 94,
+    "Average price per pound": 3.66,
+    "Value of production": 1230,
+    "Year": 2018
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 4,
+    "Yield per colony": 40,
+    "Production": 160,
+    "Stocks December 15": 35,
+    "Average price per pound": 6.83,
+    "Value of production": 1093,
+    "Year": 2018
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 77,
+    "Yield per colony": 43,
+    "Production": 3311,
+    "Stocks December 15": 563,
+    "Average price per pound": 2.11,
+    "Value of production": 6986,
+    "Year": 2018
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 37,
+    "Production": 222,
+    "Stocks December 15": 38,
+    "Average price per pound": 4.16,
+    "Value of production": 924,
+    "Year": 2018
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 51,
+    "Yield per colony": 45,
+    "Production": 2295,
+    "Stocks December 15": 711,
+    "Average price per pound": 2.76,
+    "Value of production": 6334,
+    "Year": 2018
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 56,
+    "Production": 2184,
+    "Stocks December 15": 175,
+    "Average price per pound": 1.89,
+    "Value of production": 4128,
+    "Year": 2018
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 36,
+    "Yield per colony": 39,
+    "Production": 1399,
+    "Stocks December 15": 314,
+    "Average price per pound": 5.93,
+    "Value of production": 8599,
+    "Year": 2018
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2803,
+    "Yield per colony": 54.4,
+    "Production": 152348,
+    "Stocks December 15": 29091,
+    "Average price per pound": 2.166,
+    "Value of production": 333482,
+    "Year": 2018
+  },
+  {
+    "State": "AL",
+    "Honey producing colonies": 7,
+    "Yield per colony": 42,
+    "Production": 294,
+    "Stocks December 15": 44,
+    "Average price per pound": 3.2,
+    "Value of production": 941,
+    "Year": 2019
+  },
+  {
+    "State": "AZ",
+    "Honey producing colonies": 23,
+    "Yield per colony": 46,
+    "Production": 1058,
+    "Stocks December 15": 201,
+    "Average price per pound": 1.97,
+    "Value of production": 2084,
+    "Year": 2019
+  },
+  {
+    "State": "AR",
+    "Honey producing colonies": 20,
+    "Yield per colony": 55,
+    "Production": 1100,
+    "Stocks December 15": 176,
+    "Average price per pound": 1.53,
+    "Value of production": 1683,
+    "Year": 2019
+  },
+  {
+    "State": "CA",
+    "Honey producing colonies": 335,
+    "Yield per colony": 48,
+    "Production": 16080,
+    "Stocks December 15": 3216,
+    "Average price per pound": 1.56,
+    "Value of production": 25085,
+    "Year": 2019
+  },
+  {
+    "State": "CO",
+    "Honey producing colonies": 32,
+    "Yield per colony": 46,
+    "Production": 1472,
+    "Stocks December 15": 500,
+    "Average price per pound": 2.14,
+    "Value of production": 3150,
+    "Year": 2019
+  },
+  {
+    "State": "FL",
+    "Honey producing colonies": 205,
+    "Yield per colony": 45,
+    "Production": 9225,
+    "Stocks December 15": 830,
+    "Average price per pound": 2.48,
+    "Value of production": 22878,
+    "Year": 2019
+  },
+  {
+    "State": "GA",
+    "Honey producing colonies": 102,
+    "Yield per colony": 33,
+    "Production": 3366,
+    "Stocks December 15": 370,
+    "Average price per pound": 2.61,
+    "Value of production": 8785,
+    "Year": 2019
+  },
+  {
+    "State": "HI",
+    "Honey producing colonies": 16,
+    "Yield per colony": 80,
+    "Production": 1280,
+    "Stocks December 15": 51,
+    "Average price per pound": 1.28,
+    "Value of production": 1638,
+    "Year": 2019
+  },
+  {
+    "State": "ID",
+    "Honey producing colonies": 92,
+    "Yield per colony": 32,
+    "Production": 2944,
+    "Stocks December 15": 677,
+    "Average price per pound": 1.67,
+    "Value of production": 4916,
+    "Year": 2019
+  },
+  {
+    "State": "IL",
+    "Honey producing colonies": 11,
+    "Yield per colony": 39,
+    "Production": 429,
+    "Stocks December 15": 116,
+    "Average price per pound": 4.31,
+    "Value of production": 1849,
+    "Year": 2019
+  },
+  {
+    "State": "IN",
+    "Honey producing colonies": 9,
+    "Yield per colony": 55,
+    "Production": 495,
+    "Stocks December 15": 198,
+    "Average price per pound": 3.95,
+    "Value of production": 1955,
+    "Year": 2019
+  },
+  {
+    "State": "IA",
+    "Honey producing colonies": 38,
+    "Yield per colony": 55,
+    "Production": 2090,
+    "Stocks December 15": 1170,
+    "Average price per pound": 2.24,
+    "Value of production": 4682,
+    "Year": 2019
+  },
+  {
+    "State": "KS",
+    "Honey producing colonies": 7,
+    "Yield per colony": 79,
+    "Production": 553,
+    "Stocks December 15": 171,
+    "Average price per pound": 2.95,
+    "Value of production": 1631,
+    "Year": 2019
+  },
+  {
+    "State": "KY",
+    "Honey producing colonies": 6,
+    "Yield per colony": 41,
+    "Production": 246,
+    "Stocks December 15": 44,
+    "Average price per pound": 4.5,
+    "Value of production": 1107,
+    "Year": 2019
+  },
+  {
+    "State": "LA",
+    "Honey producing colonies": 54,
+    "Yield per colony": 72,
+    "Production": 3888,
+    "Stocks December 15": 428,
+    "Average price per pound": 2.04,
+    "Value of production": 7932,
+    "Year": 2019
+  },
+  {
+    "State": "ME",
+    "Honey producing colonies": 15,
+    "Yield per colony": 35,
+    "Production": 525,
+    "Stocks December 15": 110,
+    "Average price per pound": 2.92,
+    "Value of production": 1533,
+    "Year": 2019
+  },
+  {
+    "State": "MI",
+    "Honey producing colonies": 94,
+    "Yield per colony": 50,
+    "Production": 4700,
+    "Stocks December 15": 1363,
+    "Average price per pound": 2.36,
+    "Value of production": 11092,
+    "Year": 2019
+  },
+  {
+    "State": "MN",
+    "Honey producing colonies": 118,
+    "Yield per colony": 59,
+    "Production": 6962,
+    "Stocks December 15": 3063,
+    "Average price per pound": 1.63,
+    "Value of production": 11348,
+    "Year": 2019
+  },
+  {
+    "State": "MS",
+    "Honey producing colonies": 22,
+    "Yield per colony": 80,
+    "Production": 1760,
+    "Stocks December 15": 141,
+    "Average price per pound": 1.85,
+    "Value of production": 3256,
+    "Year": 2019
+  },
+  {
+    "State": "MO",
+    "Honey producing colonies": 10,
+    "Yield per colony": 43,
+    "Production": 430,
+    "Stocks December 15": 73,
+    "Average price per pound": 3.32,
+    "Value of production": 1428,
+    "Year": 2019
+  },
+  {
+    "State": "MT",
+    "Honey producing colonies": 173,
+    "Yield per colony": 86,
+    "Production": 14878,
+    "Stocks December 15": 5802,
+    "Average price per pound": 1.48,
+    "Value of production": 22019,
+    "Year": 2019
+  },
+  {
+    "State": "NE",
+    "Honey producing colonies": 39,
+    "Yield per colony": 52,
+    "Production": 2028,
+    "Stocks December 15": 223,
+    "Average price per pound": 1.46,
+    "Value of production": 2961,
+    "Year": 2019
+  },
+  {
+    "State": "NJ",
+    "Honey producing colonies": 15,
+    "Yield per colony": 28,
+    "Production": 420,
+    "Stocks December 15": 155,
+    "Average price per pound": 3.33,
+    "Value of production": 1399,
+    "Year": 2019
+  },
+  {
+    "State": "NY",
+    "Honey producing colonies": 59,
+    "Yield per colony": 58,
+    "Production": 3422,
+    "Stocks December 15": 1027,
+    "Average price per pound": 4.49,
+    "Value of production": 15365,
+    "Year": 2019
+  },
+  {
+    "State": "NC",
+    "Honey producing colonies": 14,
+    "Yield per colony": 42,
+    "Production": 588,
+    "Stocks December 15": 118,
+    "Average price per pound": 4.06,
+    "Value of production": 2387,
+    "Year": 2019
+  },
+  {
+    "State": "ND",
+    "Honey producing colonies": 520,
+    "Yield per colony": 65,
+    "Production": 33800,
+    "Stocks December 15": 6422,
+    "Average price per pound": 1.4,
+    "Value of production": 47320,
+    "Year": 2019
+  },
+  {
+    "State": "OH",
+    "Honey producing colonies": 15,
+    "Yield per colony": 67,
+    "Production": 1005,
+    "Stocks December 15": 442,
+    "Average price per pound": 3.42,
+    "Value of production": 3437,
+    "Year": 2019
+  },
+  {
+    "State": "OR",
+    "Honey producing colonies": 87,
+    "Yield per colony": 32,
+    "Production": 2784,
+    "Stocks December 15": 1141,
+    "Average price per pound": 2.07,
+    "Value of production": 5763,
+    "Year": 2019
+  },
+  {
+    "State": "PA",
+    "Honey producing colonies": 19,
+    "Yield per colony": 50,
+    "Production": 950,
+    "Stocks December 15": 409,
+    "Average price per pound": 4.24,
+    "Value of production": 4028,
+    "Year": 2019
+  },
+  {
+    "State": "SC",
+    "Honey producing colonies": 16,
+    "Yield per colony": 47,
+    "Production": 752,
+    "Stocks December 15": 45,
+    "Average price per pound": 5.01,
+    "Value of production": 3768,
+    "Year": 2019
+  },
+  {
+    "State": "SD",
+    "Honey producing colonies": 270,
+    "Yield per colony": 72,
+    "Production": 19440,
+    "Stocks December 15": 7582,
+    "Average price per pound": 1.53,
+    "Value of production": 29743,
+    "Year": 2019
+  },
+  {
+    "State": "TN",
+    "Honey producing colonies": 8,
+    "Yield per colony": 57,
+    "Production": 456,
+    "Stocks December 15": 91,
+    "Average price per pound": 4.65,
+    "Value of production": 2120,
+    "Year": 2019
+  },
+  {
+    "State": "TX",
+    "Honey producing colonies": 126,
+    "Yield per colony": 60,
+    "Production": 7560,
+    "Stocks December 15": 1814,
+    "Average price per pound": 2.3,
+    "Value of production": 17388,
+    "Year": 2019
+  },
+  {
+    "State": "UT",
+    "Honey producing colonies": 22,
+    "Yield per colony": 29,
+    "Production": 638,
+    "Stocks December 15": 89,
+    "Average price per pound": 2.06,
+    "Value of production": 1314,
+    "Year": 2019
+  },
+  {
+    "State": "VT",
+    "Honey producing colonies": 6,
+    "Yield per colony": 48,
+    "Production": 288,
+    "Stocks December 15": 84,
+    "Average price per pound": 4.34,
+    "Value of production": 1250,
+    "Year": 2019
+  },
+  {
+    "State": "VA",
+    "Honey producing colonies": 5,
+    "Yield per colony": 39,
+    "Production": 195,
+    "Stocks December 15": 49,
+    "Average price per pound": 7.51,
+    "Value of production": 1464,
+    "Year": 2019
+  },
+  {
+    "State": "WA",
+    "Honey producing colonies": 81,
+    "Yield per colony": 35,
+    "Production": 2835,
+    "Stocks December 15": 1191,
+    "Average price per pound": 2.12,
+    "Value of production": 6010,
+    "Year": 2019
+  },
+  {
+    "State": "WV",
+    "Honey producing colonies": 6,
+    "Yield per colony": 37,
+    "Production": 222,
+    "Stocks December 15": 47,
+    "Average price per pound": 4.5,
+    "Value of production": 999,
+    "Year": 2019
+  },
+  {
+    "State": "WI",
+    "Honey producing colonies": 46,
+    "Yield per colony": 47,
+    "Production": 2162,
+    "Stocks December 15": 692,
+    "Average price per pound": 2.99,
+    "Value of production": 6464,
+    "Year": 2019
+  },
+  {
+    "State": "WY",
+    "Honey producing colonies": 39,
+    "Yield per colony": 56,
+    "Production": 2184,
+    "Stocks December 15": 306,
+    "Average price per pound": 1.35,
+    "Value of production": 2948,
+    "Year": 2019
+  },
+  {
+    "State": "Other",
+    "Honey producing colonies": 30,
+    "Yield per colony": 47,
+    "Production": 1418,
+    "Stocks December 15": 351,
+    "Average price per pound": 5.91,
+    "Value of production": 8380,
+    "Year": 2019
+  },
+  {
+    "State": "US",
+    "Honey producing colonies": 2812,
+    "Yield per colony": 55.8,
+    "Production": 156922,
+    "Stocks December 15": 41022,
+    "Average price per pound": 1.97,
+    "Value of production": 309136,
+    "Year": 2019
+  }
+]
